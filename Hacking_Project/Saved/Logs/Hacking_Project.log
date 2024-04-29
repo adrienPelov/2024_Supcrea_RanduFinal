@@ -2265,3 +2265,423 @@ LogConfig: Set CVar [[r.setres:1280x720]]
 [2024.04.29-08.37.40:709][739]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Maps/Level_1_Virgile_Auto1 is in the /Temp path, will not scan.
 [2024.04.29-08.37.40:709][739]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Level_1_Virgile' took 0.024
 [2024.04.29-08.37.40:709][739]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.024
+[2024.04.29-08.46.46:484][132]LogEditorViewport: Clicking Background
+[2024.04.29-08.47.05:271][285]LogEditorViewport: Clicking Background
+[2024.04.29-08.47.20:829][938]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.04.29-08.47.20:843][938]LogContentBrowser: Creating deferred item: NewFolder
+[2024.04.29-08.47.20:849][939]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.04.29-08.47.33:951][466]LogContentBrowser: Attempting asset rename: NewFolder -> Test_BP
+[2024.04.29-08.47.33:951][466]LogContentBrowser: End creating deferred item NewFolder
+[2024.04.29-08.47.40:092][139]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Player/BP_Player.BP_Player_C
+[2024.04.29-08.47.40:092][139]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Player/BP_Player.BP_Player_C
+[2024.04.29-08.47.40:095][139]LogActorFactory: Actor Factory spawned Blueprint /Game/Player/BP_Player.BP_Player as actor: BP_Player_C /Game/Maps/Level_1_Virgile.Level_1_Virgile:PersistentLevel.BP_Player_C_2
+[2024.04.29-08.47.40:097][139]LogActorFactory: Actor Factory spawned Blueprint /Game/Player/BP_Player.BP_Player as actor: BP_Player_C /Game/Maps/Level_1_Virgile.Level_1_Virgile:PersistentLevel.BP_Player_C_2
+[2024.04.29-08.47.40:399][171]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Player/BP_Player.BP_Player_C
+[2024.04.29-08.47.40:399][171]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Player/BP_Player.BP_Player_C
+[2024.04.29-08.47.40:403][171]LogActorFactory: Actor Factory spawned Blueprint /Game/Player/BP_Player.BP_Player as actor: BP_Player_C /Game/Maps/Level_1_Virgile.Level_1_Virgile:PersistentLevel.BP_Player_C_3
+[2024.04.29-08.47.40:405][171]LogActorFactory: Actor Factory spawned Blueprint /Game/Player/BP_Player.BP_Player as actor: BP_Player_C /Game/Maps/Level_1_Virgile.Level_1_Virgile:PersistentLevel.BP_Player_C_3
+[2024.04.29-08.47.40:514][172]LogViewport: Scene viewport resized to 474x138, mode Windowed.
+[2024.04.29-08.47.41:678][264]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.04.29-08.47.42:728][346]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.04.29-08.49.34:255][285]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.04.29-08.49.34:277][285]LogContentBrowser: Creating deferred item: NewFolder
+[2024.04.29-08.49.34:285][286]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.04.29-08.49.44:462][191]LogContentBrowser: Attempting asset rename: NewFolder -> Elevator
+[2024.04.29-08.49.44:462][191]LogContentBrowser: End creating deferred item NewFolder
+[2024.04.29-08.50.29:605][388]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.04.29-08.50.29:612][388]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Level_1_Virgile_Auto2
+[2024.04.29-08.50.29:612][388]LogSavePackage: Moving 'D:/Virgile/Dossier Unreal/Unreal/2024_Supcrea_RanduFinal/Hacking_Project/Saved/Level_1_Virgile_Auto2811D366C470CD7447EE1989E0CFBE660.tmp' to 'D:/Virgile/Dossier Unreal/Unreal/2024_Supcrea_RanduFinal/Hacking_Project/Saved/Autosaves/Game/Maps/Level_1_Virgile_Auto2.umap'
+[2024.04.29-08.50.29:613][388]LogAssetRegistry: Warning: ScanPathsSynchronous: D:/Virgile/Dossier Unreal/Unreal/2024_Supcrea_RanduFinal/Hacking_Project/Saved/Autosaves/Game/Maps/Level_1_Virgile_Auto2.umap is in the /Temp path, will not scan.
+[2024.04.29-08.50.29:613][388]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/Maps/Level_1_Virgile_Auto2 is in the /Temp path, will not scan.
+[2024.04.29-08.50.29:613][388]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Maps/Level_1_Virgile_Auto2 is in the /Temp path, will not scan.
+[2024.04.29-08.50.29:613][388]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Level_1_Virgile' took 0.027
+[2024.04.29-08.50.29:613][388]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.027
+[2024.04.29-08.51.28:204][571]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hacking/_Base/BP_HackTarget.BP_HackTarget_C
+[2024.04.29-08.51.28:204][571]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hacking/_Base/BP_HackTarget.BP_HackTarget_C
+[2024.04.29-08.51.28:205][571]LogActorFactory: Actor Factory spawned Blueprint /Game/Hacking/_Base/BP_HackTarget.BP_HackTarget as actor: BP_HackTarget_C /Game/Maps/Level_1_Virgile.Level_1_Virgile:PersistentLevel.BP_HackTarget_C_0
+[2024.04.29-08.51.28:206][571]LogActorFactory: Actor Factory spawned Blueprint /Game/Hacking/_Base/BP_HackTarget.BP_HackTarget as actor: BP_HackTarget_C /Game/Maps/Level_1_Virgile.Level_1_Virgile:PersistentLevel.BP_HackTarget_C_0
+[2024.04.29-08.51.29:085][653]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hacking/_Base/BP_HackTarget.BP_HackTarget_C
+[2024.04.29-08.51.29:085][653]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hacking/_Base/BP_HackTarget.BP_HackTarget_C
+[2024.04.29-08.51.29:087][653]LogActorFactory: Actor Factory spawned Blueprint /Game/Hacking/_Base/BP_HackTarget.BP_HackTarget as actor: BP_HackTarget_C /Game/Maps/Level_1_Virgile.Level_1_Virgile:PersistentLevel.BP_HackTarget_C_1
+[2024.04.29-08.51.29:087][653]LogActorFactory: Actor Factory spawned Blueprint /Game/Hacking/_Base/BP_HackTarget.BP_HackTarget as actor: BP_HackTarget_C /Game/Maps/Level_1_Virgile.Level_1_Virgile:PersistentLevel.BP_HackTarget_C_1
+[2024.04.29-08.51.30:282][786]Cmd: DELETE
+[2024.04.29-08.51.30:282][786]Cmd: ACTOR DELETE
+[2024.04.29-08.51.30:284][786]LogEditorActor: Deleted Actor: BP_HackTarget_C
+[2024.04.29-08.51.30:297][786]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.04.29-08.51.30:299][786]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2024.04.29-08.52.51:342][136]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.04.29-08.52.51:350][136]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.04.29-08.52.51:354][136]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.04.29-08.52.51:372][138]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.04.29-08.53.26:732][122]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Elevator
+[2024.04.29-08.53.26:738][122]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.04.29-08.54.27:751][  3]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.04.29-08.54.30:596][  3]LogSlate: Window 'Delete Assets' being destroyed
+[2024.04.29-08.54.30:616][  3]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.04.29-08.54.30:627][  3]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.04.29-08.54.30:638][  3]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.04.29-08.55.07:685][411]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.04.29-08.55.07:691][411]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.04.29-08.55.07:697][411]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.04.29-08.55.07:712][413]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.04.29-08.55.16:747][467]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Elevator
+[2024.04.29-08.55.16:753][467]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.04.29-08.55.16:754][467]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.29-08.55.26:712][601]LogMetaData: Removing '/Game/LDIs/Elevator/BP_Elevator.BP_Elevator:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Elevator/BP_Elevator.PackageMetaData'
+[2024.04.29-08.55.26:712][601]LogMetaData: Removing '/Game/LDIs/Elevator/BP_Elevator.SKEL_BP_Elevator_C:UserConstructionScript' ref from Metadata '/Game/Elevator/BP_Elevator.PackageMetaData'
+[2024.04.29-08.55.26:712][601]LogMetaData: Removing '/Game/LDIs/Elevator/BP_Elevator.SKEL_BP_Elevator_C' ref from Metadata '/Game/Elevator/BP_Elevator.PackageMetaData'
+[2024.04.29-08.55.26:712][601]LogMetaData: Removing '/Game/LDIs/Elevator/BP_Elevator.BP_Elevator_C' ref from Metadata '/Game/Elevator/BP_Elevator.PackageMetaData'
+[2024.04.29-08.55.26:712][601]LogMetaData: Removing '/Game/LDIs/Elevator/BP_Elevator.BP_Elevator:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Elevator/BP_Elevator.PackageMetaData'
+[2024.04.29-08.55.26:712][601]LogMetaData: Removing '/Game/LDIs/Elevator/BP_Elevator.BP_Elevator:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/Elevator/BP_Elevator.PackageMetaData'
+[2024.04.29-08.55.26:712][601]LogMetaData: Removing '/Game/LDIs/Elevator/BP_Elevator.BP_Elevator:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Elevator/BP_Elevator.PackageMetaData'
+[2024.04.29-08.55.26:712][601]LogMetaData: Removing '/Game/LDIs/Elevator/BP_Elevator.BP_Elevator:EventGraph.K2Node_CallParentFunction_1' ref from Metadata '/Game/Elevator/BP_Elevator.PackageMetaData'
+[2024.04.29-08.55.26:712][601]LogMetaData: Removing '/Game/LDIs/Elevator/BP_Elevator.BP_Elevator:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Elevator/BP_Elevator.PackageMetaData'
+[2024.04.29-08.55.26:712][601]LogMetaData: Removing '/Game/LDIs/Elevator/BP_Elevator.BP_Elevator:EventGraph.K2Node_CallParentFunction_2' ref from Metadata '/Game/Elevator/BP_Elevator.PackageMetaData'
+[2024.04.29-08.55.26:714][601]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.29-08.55.26:858][601]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LDIs/Elevator/BP_Elevator" FILE="D:/Virgile/Dossier Unreal/Unreal/2024_Supcrea_RanduFinal/Hacking_Project/Content/LDIs/Elevator/BP_Elevator.uasset" SILENT=true
+[2024.04.29-08.55.26:862][601]LogSavePackage: Moving output files for package: /Game/LDIs/Elevator/BP_Elevator
+[2024.04.29-08.55.26:862][601]LogSavePackage: Moving 'D:/Virgile/Dossier Unreal/Unreal/2024_Supcrea_RanduFinal/Hacking_Project/Saved/BP_ElevatorD31AF0D1465E3B7AA805EF9E7E3C28A1.tmp' to 'D:/Virgile/Dossier Unreal/Unreal/2024_Supcrea_RanduFinal/Hacking_Project/Content/LDIs/Elevator/BP_Elevator.uasset'
+[2024.04.29-08.55.26:873][601]LogFileHelpers: InternalPromptForCheckoutAndSave took 160 ms (total: 939 ms)
+[2024.04.29-08.55.26:891][601]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.04.29-08.55.26:904][601]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.04.29-08.55.26:914][601]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.04.29-08.55.26:936][601]AssetCheck: New page: Asset Save: BP_Elevator
+[2024.04.29-08.55.26:936][601]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LDIs/Elevator/BP_Elevator.BP_Elevator
+[2024.04.29-08.55.47:217][580]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LDIs/Elevator/BP_Elevator.BP_Elevator
+[2024.04.29-08.55.47:218][580]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.29-08.55.47:218][580]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.29-08.55.47:400][580]LogViewport: Scene viewport resized to 776x466, mode Windowed.
+[2024.04.29-08.57.40:060][755]LogEditorTransaction: Undo Modify Component(s)
+[2024.04.29-09.01.05:401][586]LogEditorTransaction: Undo Rename Component Variable
+[2024.04.29-09.01.05:704][590]LogEditorTransaction: Undo Attach Component
+[2024.04.29-09.01.05:901][592]LogEditorTransaction: Undo Attach Component
+[2024.04.29-09.01.06:094][598]LogEditorTransaction: Undo Attach Component
+[2024.04.29-09.01.06:872][652]LogEditorTransaction: Undo Modify Component(s)
+[2024.04.29-09.01.07:104][665]LogEditorTransaction: Undo Set Location
+[2024.04.29-09.01.07:314][676]LogEditorTransaction: Undo Set Location
+[2024.04.29-09.01.07:603][693]LogEditorTransaction: Undo Set Location
+[2024.04.29-09.01.07:785][702]LogEditorTransaction: Undo Set Location
+[2024.04.29-09.01.08:046][717]LogEditorTransaction: Undo Modify Component(s)
+[2024.04.29-09.01.08:487][745]LogEditorTransaction: Undo Paste Component(s)
+[2024.04.29-09.01.08:812][764]LogEditorTransaction: Undo Modify Component(s)
+[2024.04.29-09.01.09:306][796]LogEditorTransaction: Undo Modify Component(s)
+[2024.04.29-09.01.54:423][484]LogDerivedDataCache: D:/EDUSERVICES/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.096 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 982 files in 1612 folders with total size 69 MiB.
+[2024.04.29-09.02.04:665][516]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SDockingTabStack [TabManager.cpp(1683)].
+[2024.04.29-09.02.04:692][516]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.04.29-09.02.04:698][516]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Level_1_Virgile_Auto3
+[2024.04.29-09.02.04:698][516]LogSavePackage: Moving 'D:/Virgile/Dossier Unreal/Unreal/2024_Supcrea_RanduFinal/Hacking_Project/Saved/Level_1_Virgile_Auto33DA1C55C450FF5B978CB4EA382E2E4D5.tmp' to 'D:/Virgile/Dossier Unreal/Unreal/2024_Supcrea_RanduFinal/Hacking_Project/Saved/Autosaves/Game/Maps/Level_1_Virgile_Auto3.umap'
+[2024.04.29-09.02.04:698][516]LogAssetRegistry: Warning: ScanPathsSynchronous: D:/Virgile/Dossier Unreal/Unreal/2024_Supcrea_RanduFinal/Hacking_Project/Saved/Autosaves/Game/Maps/Level_1_Virgile_Auto3.umap is in the /Temp path, will not scan.
+[2024.04.29-09.02.04:698][516]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/Maps/Level_1_Virgile_Auto3 is in the /Temp path, will not scan.
+[2024.04.29-09.02.04:698][516]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Maps/Level_1_Virgile_Auto3 is in the /Temp path, will not scan.
+[2024.04.29-09.02.04:699][516]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Level_1_Virgile' took 0.023
+[2024.04.29-09.02.04:699][516]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.023
+[2024.04.29-09.02.04:699][516]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/LDIs/Elevator/BP_Elevator] ([2] browsable assets)...
+[2024.04.29-09.02.04:710][516]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/LDIs/Elevator/BP_Elevator.BP_Elevator]
+[2024.04.29-09.02.04:710][516]OBJ SavePackage: Finished generating thumbnails for package [/Game/LDIs/Elevator/BP_Elevator]
+[2024.04.29-09.02.04:714][516]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LDIs/Elevator/BP_Elevator_Auto3
+[2024.04.29-09.02.04:714][516]LogSavePackage: Moving 'D:/Virgile/Dossier Unreal/Unreal/2024_Supcrea_RanduFinal/Hacking_Project/Saved/BP_Elevator_Auto311D9EC534ABD0899C98540A75D11B7DD.tmp' to 'D:/Virgile/Dossier Unreal/Unreal/2024_Supcrea_RanduFinal/Hacking_Project/Saved/Autosaves/Game/LDIs/Elevator/BP_Elevator_Auto3.uasset'
+[2024.04.29-09.02.04:715][516]LogFileHelpers: Auto-saving content packages took 0.016
+[2024.04.29-09.02.52:220][ 98]LogEditorTransaction: Undo Modify Component(s)
+[2024.04.29-09.09.16:966][490]BlueprintLog: New page: Compile BP_Elevator
+[2024.04.29-09.09.17:003][490]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.04.29-09.09.20:274][736]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.29-09.09.20:344][736]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LDIs/Elevator/BP_Elevator" FILE="D:/Virgile/Dossier Unreal/Unreal/2024_Supcrea_RanduFinal/Hacking_Project/Content/LDIs/Elevator/BP_Elevator.uasset" SILENT=true
+[2024.04.29-09.09.20:349][736]LogSavePackage: Moving output files for package: /Game/LDIs/Elevator/BP_Elevator
+[2024.04.29-09.09.20:349][736]LogSavePackage: Moving 'D:/Virgile/Dossier Unreal/Unreal/2024_Supcrea_RanduFinal/Hacking_Project/Saved/BP_ElevatorFF737C8C401ADAAAF6B85E9CAEF07F60.tmp' to 'D:/Virgile/Dossier Unreal/Unreal/2024_Supcrea_RanduFinal/Hacking_Project/Content/LDIs/Elevator/BP_Elevator.uasset'
+[2024.04.29-09.09.20:356][736]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 1.02 sec)
+[2024.04.29-09.09.20:357][736]AssetCheck: New page: Asset Save: BP_Elevator
+[2024.04.29-09.09.20:357][736]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LDIs/Elevator/BP_Elevator.BP_Elevator
+[2024.04.29-09.11.16:339][681]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LDIs/BP_Door.BP_Door
+[2024.04.29-09.11.16:340][681]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.29-09.11.16:340][681]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.29-09.12.21:906][890]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.04.29-09.12.21:911][890]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Level_1_Virgile_Auto4
+[2024.04.29-09.12.21:911][890]LogSavePackage: Moving 'D:/Virgile/Dossier Unreal/Unreal/2024_Supcrea_RanduFinal/Hacking_Project/Saved/Level_1_Virgile_Auto47D08B20442D2B4629F4800B0539E0C3B.tmp' to 'D:/Virgile/Dossier Unreal/Unreal/2024_Supcrea_RanduFinal/Hacking_Project/Saved/Autosaves/Game/Maps/Level_1_Virgile_Auto4.umap'
+[2024.04.29-09.12.21:912][890]LogAssetRegistry: Warning: ScanPathsSynchronous: D:/Virgile/Dossier Unreal/Unreal/2024_Supcrea_RanduFinal/Hacking_Project/Saved/Autosaves/Game/Maps/Level_1_Virgile_Auto4.umap is in the /Temp path, will not scan.
+[2024.04.29-09.12.21:912][890]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/Maps/Level_1_Virgile_Auto4 is in the /Temp path, will not scan.
+[2024.04.29-09.12.21:912][890]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Maps/Level_1_Virgile_Auto4 is in the /Temp path, will not scan.
+[2024.04.29-09.12.21:912][890]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Level_1_Virgile' took 0.019
+[2024.04.29-09.12.21:912][890]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.019
+[2024.04.29-09.12.52:214][919]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PlayerTriggers/BP_TriggerInteraction.BP_TriggerInteraction
+[2024.04.29-09.12.52:215][919]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.29-09.12.52:215][919]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.29-09.15.16:877][770]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.04.29-09.15.20:095][770]LogSlate: Window 'Delete Assets' being destroyed
+[2024.04.29-09.15.20:185][770]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2024.04.29-09.15.20:185][770]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.29-09.15.20:213][770]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/LDIs/Elevator/BP_Elevator.BP_Elevator
+	Asset Type: Blueprint
+[2024.04.29-09.15.20:444][770]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.04.29-09.15.20:476][770]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.04.29-09.15.20:487][770]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.04.29-09.15.20:498][770]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.04.29-09.15.36:787][168]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.04.29-09.15.36:795][168]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.04.29-09.15.36:801][168]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.04.29-09.15.36:819][170]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.04.29-09.15.42:334][710]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Elevator
+[2024.04.29-09.15.42:340][710]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.04.29-09.15.43:935][873]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LDIs/Elevator/BP_Elevator.BP_Elevator
+[2024.04.29-09.15.43:936][873]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.29-09.15.43:936][873]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.29-09.15.44:067][873]LogViewport: Scene viewport resized to 776x466, mode Windowed.
+[2024.04.29-09.16.40:663][726]LogEditorTransaction: Undo Modify Component(s)
+[2024.04.29-09.16.50:544][404]LogEditorTransaction: Undo Modify Component(s)
+[2024.04.29-09.17.51:607][ 40]LogEditorTransaction: Undo Modify Component(s)
+[2024.04.29-09.18.48:173][713]LogEditorTransaction: Undo Modify Component(s)
+[2024.04.29-09.19.35:509][367]BlueprintLog: New page: Compile BP_Elevator
+[2024.04.29-09.19.35:556][367]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.04.29-09.19.36:084][402]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.29-09.19.36:159][402]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LDIs/Elevator/BP_Elevator" FILE="D:/Virgile/Dossier Unreal/Unreal/2024_Supcrea_RanduFinal/Hacking_Project/Content/LDIs/Elevator/BP_Elevator.uasset" SILENT=true
+[2024.04.29-09.19.36:163][402]LogSavePackage: Moving output files for package: /Game/LDIs/Elevator/BP_Elevator
+[2024.04.29-09.19.36:163][402]LogSavePackage: Moving 'D:/Virgile/Dossier Unreal/Unreal/2024_Supcrea_RanduFinal/Hacking_Project/Saved/BP_Elevator73B88AD64329B6BD0944F5BC9CE83576.tmp' to 'D:/Virgile/Dossier Unreal/Unreal/2024_Supcrea_RanduFinal/Hacking_Project/Content/LDIs/Elevator/BP_Elevator.uasset'
+[2024.04.29-09.19.36:173][402]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 1.11 sec)
+[2024.04.29-09.19.36:174][402]AssetCheck: New page: Asset Save: BP_Elevator
+[2024.04.29-09.19.36:174][402]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LDIs/Elevator/BP_Elevator.BP_Elevator
+[2024.04.29-09.20.45:286][790]BlueprintLog: New page: Compile BP_Elevator
+[2024.04.29-09.20.45:312][790]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.04.29-09.20.46:273][855]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.29-09.20.46:365][855]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LDIs/Elevator/BP_Elevator" FILE="D:/Virgile/Dossier Unreal/Unreal/2024_Supcrea_RanduFinal/Hacking_Project/Content/LDIs/Elevator/BP_Elevator.uasset" SILENT=true
+[2024.04.29-09.20.46:369][855]LogSavePackage: Moving output files for package: /Game/LDIs/Elevator/BP_Elevator
+[2024.04.29-09.20.46:370][855]LogSavePackage: Moving 'D:/Virgile/Dossier Unreal/Unreal/2024_Supcrea_RanduFinal/Hacking_Project/Saved/BP_ElevatorC34AA769407FCBE21F748C8F467E6810.tmp' to 'D:/Virgile/Dossier Unreal/Unreal/2024_Supcrea_RanduFinal/Hacking_Project/Content/LDIs/Elevator/BP_Elevator.uasset'
+[2024.04.29-09.20.46:395][855]LogFileHelpers: InternalPromptForCheckoutAndSave took 120 ms (total: 1.23 sec)
+[2024.04.29-09.20.46:396][855]AssetCheck: New page: Asset Save: BP_Elevator
+[2024.04.29-09.20.46:396][855]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LDIs/Elevator/BP_Elevator.BP_Elevator
+[2024.04.29-09.21.34:743][242]Cmd: TRANSACTION UNDO
+[2024.04.29-09.21.34:744][242]LogEditorTransaction: Undo Add New Function
+[2024.04.29-09.23.04:390][803]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.04.29-09.23.04:396][803]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Level_1_Virgile_Auto5
+[2024.04.29-09.23.04:396][803]LogSavePackage: Moving 'D:/Virgile/Dossier Unreal/Unreal/2024_Supcrea_RanduFinal/Hacking_Project/Saved/Level_1_Virgile_Auto51EE3281449256123C427019B09CD4135.tmp' to 'D:/Virgile/Dossier Unreal/Unreal/2024_Supcrea_RanduFinal/Hacking_Project/Saved/Autosaves/Game/Maps/Level_1_Virgile_Auto5.umap'
+[2024.04.29-09.23.04:396][803]LogAssetRegistry: Warning: ScanPathsSynchronous: D:/Virgile/Dossier Unreal/Unreal/2024_Supcrea_RanduFinal/Hacking_Project/Saved/Autosaves/Game/Maps/Level_1_Virgile_Auto5.umap is in the /Temp path, will not scan.
+[2024.04.29-09.23.04:396][803]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/Maps/Level_1_Virgile_Auto5 is in the /Temp path, will not scan.
+[2024.04.29-09.23.04:396][803]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Maps/Level_1_Virgile_Auto5 is in the /Temp path, will not scan.
+[2024.04.29-09.23.04:397][803]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Level_1_Virgile' took 0.022
+[2024.04.29-09.23.04:397][803]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.022
+[2024.04.29-09.27.39:884][ 16]BlueprintLog: New page: Compile BP_Elevator
+[2024.04.29-09.27.39:909][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.04.29-09.27.41:015][114]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.29-09.27.41:121][114]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LDIs/Elevator/BP_Elevator" FILE="D:/Virgile/Dossier Unreal/Unreal/2024_Supcrea_RanduFinal/Hacking_Project/Content/LDIs/Elevator/BP_Elevator.uasset" SILENT=true
+[2024.04.29-09.27.41:127][114]LogSavePackage: Moving output files for package: /Game/LDIs/Elevator/BP_Elevator
+[2024.04.29-09.27.41:127][114]LogSavePackage: Moving 'D:/Virgile/Dossier Unreal/Unreal/2024_Supcrea_RanduFinal/Hacking_Project/Saved/BP_Elevator96FFEF934B7160F69DF0C094F392ACC4.tmp' to 'D:/Virgile/Dossier Unreal/Unreal/2024_Supcrea_RanduFinal/Hacking_Project/Content/LDIs/Elevator/BP_Elevator.uasset'
+[2024.04.29-09.27.41:143][114]LogFileHelpers: InternalPromptForCheckoutAndSave took 127 ms (total: 1.35 sec)
+[2024.04.29-09.27.41:145][114]AssetCheck: New page: Asset Save: BP_Elevator
+[2024.04.29-09.27.41:145][114]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LDIs/Elevator/BP_Elevator.BP_Elevator
+[2024.04.29-09.31.04:418][542]BlueprintLog: New page: Compile BP_Elevator
+[2024.04.29-09.31.04:451][542]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.04.29-09.31.06:106][659]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.29-09.31.06:198][659]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LDIs/Elevator/BP_Elevator" FILE="D:/Virgile/Dossier Unreal/Unreal/2024_Supcrea_RanduFinal/Hacking_Project/Content/LDIs/Elevator/BP_Elevator.uasset" SILENT=true
+[2024.04.29-09.31.06:203][659]LogSavePackage: Moving output files for package: /Game/LDIs/Elevator/BP_Elevator
+[2024.04.29-09.31.06:203][659]LogSavePackage: Moving 'D:/Virgile/Dossier Unreal/Unreal/2024_Supcrea_RanduFinal/Hacking_Project/Saved/BP_Elevator30EDA12544500EDBC54154A530B7E12D.tmp' to 'D:/Virgile/Dossier Unreal/Unreal/2024_Supcrea_RanduFinal/Hacking_Project/Content/LDIs/Elevator/BP_Elevator.uasset'
+[2024.04.29-09.31.06:229][659]LogFileHelpers: InternalPromptForCheckoutAndSave took 123 ms (total: 1.48 sec)
+[2024.04.29-09.31.06:231][659]AssetCheck: New page: Asset Save: BP_Elevator
+[2024.04.29-09.31.06:231][659]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LDIs/Elevator/BP_Elevator.BP_Elevator
+[2024.04.29-09.33.04:753][939]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.04.29-09.33.04:754][939]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Level_1_Virgile' took 0.014
+[2024.04.29-09.33.04:754][939]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/LDIs/Elevator/BP_Elevator] ([2] browsable assets)...
+[2024.04.29-09.33.04:800][939]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/LDIs/Elevator/BP_Elevator.BP_Elevator]
+[2024.04.29-09.33.04:800][939]OBJ SavePackage: Finished generating thumbnails for package [/Game/LDIs/Elevator/BP_Elevator]
+[2024.04.29-09.33.04:806][939]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LDIs/Elevator/BP_Elevator_Auto6
+[2024.04.29-09.33.04:806][939]LogSavePackage: Moving 'D:/Virgile/Dossier Unreal/Unreal/2024_Supcrea_RanduFinal/Hacking_Project/Saved/BP_Elevator_Auto6BB444050428CCBCC3C5404846DD0FBD8.tmp' to 'D:/Virgile/Dossier Unreal/Unreal/2024_Supcrea_RanduFinal/Hacking_Project/Saved/Autosaves/Game/LDIs/Elevator/BP_Elevator_Auto6.uasset'
+[2024.04.29-09.33.04:806][939]LogFileHelpers: Auto-saving content packages took 0.052
+[2024.04.29-09.33.08:746][282]LogSlate: Took 0.004998 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.04.29-09.36.47:169][809]BlueprintLog: New page: Compile BP_Elevator
+[2024.04.29-09.36.47:198][809]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.04.29-09.39.51:348][645]LogViewport: Scene viewport resized to 948x466, mode Windowed.
+[2024.04.29-09.43.05:043][891]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.04.29-09.43.05:044][891]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Level_1_Virgile' took 0.016
+[2024.04.29-09.43.05:045][891]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/LDIs/Elevator/BP_Elevator] ([2] browsable assets)...
+[2024.04.29-09.43.05:154][891]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/LDIs/Elevator/BP_Elevator.BP_Elevator]
+[2024.04.29-09.43.05:154][891]OBJ SavePackage: Finished generating thumbnails for package [/Game/LDIs/Elevator/BP_Elevator]
+[2024.04.29-09.43.05:160][891]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LDIs/Elevator/BP_Elevator_Auto7
+[2024.04.29-09.43.05:160][891]LogSavePackage: Moving 'D:/Virgile/Dossier Unreal/Unreal/2024_Supcrea_RanduFinal/Hacking_Project/Saved/BP_Elevator_Auto79A1BE1C2409D32487F011DA4716322E5.tmp' to 'D:/Virgile/Dossier Unreal/Unreal/2024_Supcrea_RanduFinal/Hacking_Project/Saved/Autosaves/Game/LDIs/Elevator/BP_Elevator_Auto7.uasset'
+[2024.04.29-09.43.05:160][891]LogFileHelpers: Auto-saving content packages took 0.116
+[2024.04.29-09.49.30:265][253]BlueprintLog: New page: Compile BP_Elevator
+[2024.04.29-09.49.30:291][253]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.04.29-09.49.33:510][533]LogViewport: Scene viewport resized to 948x466, mode Windowed.
+[2024.04.29-09.49.48:049][629]LogEditorTransaction: Undo Modify Component(s)
+[2024.04.29-09.50.07:150][ 89]LogEditorTransaction: Undo Modify Component(s)
+[2024.04.29-09.51.57:486][584]BlueprintLog: New page: Compile BP_Elevator
+[2024.04.29-09.51.57:552][584]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.04.29-09.52.20:930][416]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.29-09.52.21:020][416]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LDIs/Elevator/BP_Elevator" FILE="D:/Virgile/Dossier Unreal/Unreal/2024_Supcrea_RanduFinal/Hacking_Project/Content/LDIs/Elevator/BP_Elevator.uasset" SILENT=true
+[2024.04.29-09.52.21:026][416]LogSavePackage: Moving output files for package: /Game/LDIs/Elevator/BP_Elevator
+[2024.04.29-09.52.21:026][416]LogSavePackage: Moving 'D:/Virgile/Dossier Unreal/Unreal/2024_Supcrea_RanduFinal/Hacking_Project/Saved/BP_ElevatorF3EC4749467F04C5B0F7CFA7E5569320.tmp' to 'D:/Virgile/Dossier Unreal/Unreal/2024_Supcrea_RanduFinal/Hacking_Project/Content/LDIs/Elevator/BP_Elevator.uasset'
+[2024.04.29-09.52.21:085][416]LogFileHelpers: InternalPromptForCheckoutAndSave took 155 ms (total: 1.63 sec)
+[2024.04.29-09.52.21:086][416]AssetCheck: New page: Asset Save: BP_Elevator
+[2024.04.29-09.52.21:086][416]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LDIs/Elevator/BP_Elevator.BP_Elevator
+[2024.04.29-09.53.05:425][707]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.04.29-09.53.05:431][707]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Level_1_Virgile_Auto8
+[2024.04.29-09.53.05:431][707]LogSavePackage: Moving 'D:/Virgile/Dossier Unreal/Unreal/2024_Supcrea_RanduFinal/Hacking_Project/Saved/Level_1_Virgile_Auto8D6BF62034AD976B856564C9370C75BFE.tmp' to 'D:/Virgile/Dossier Unreal/Unreal/2024_Supcrea_RanduFinal/Hacking_Project/Saved/Autosaves/Game/Maps/Level_1_Virgile_Auto8.umap'
+[2024.04.29-09.53.05:431][707]LogAssetRegistry: Warning: ScanPathsSynchronous: D:/Virgile/Dossier Unreal/Unreal/2024_Supcrea_RanduFinal/Hacking_Project/Saved/Autosaves/Game/Maps/Level_1_Virgile_Auto8.umap is in the /Temp path, will not scan.
+[2024.04.29-09.53.05:431][707]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/Maps/Level_1_Virgile_Auto8 is in the /Temp path, will not scan.
+[2024.04.29-09.53.05:431][707]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Maps/Level_1_Virgile_Auto8 is in the /Temp path, will not scan.
+[2024.04.29-09.53.05:431][707]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Level_1_Virgile' took 0.018
+[2024.04.29-09.53.05:431][707]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.018
+[2024.04.29-09.54.24:962][742]BlueprintLog: New page: Compile BP_Elevator
+[2024.04.29-09.54.24:997][742]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.04.29-09.54.25:454][773]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.29-09.54.25:546][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LDIs/Elevator/BP_Elevator" FILE="D:/Virgile/Dossier Unreal/Unreal/2024_Supcrea_RanduFinal/Hacking_Project/Content/LDIs/Elevator/BP_Elevator.uasset" SILENT=true
+[2024.04.29-09.54.25:552][773]LogSavePackage: Moving output files for package: /Game/LDIs/Elevator/BP_Elevator
+[2024.04.29-09.54.25:552][773]LogSavePackage: Moving 'D:/Virgile/Dossier Unreal/Unreal/2024_Supcrea_RanduFinal/Hacking_Project/Saved/BP_Elevator392B95E549392FC980DA50B16FF4564F.tmp' to 'D:/Virgile/Dossier Unreal/Unreal/2024_Supcrea_RanduFinal/Hacking_Project/Content/LDIs/Elevator/BP_Elevator.uasset'
+[2024.04.29-09.54.25:570][773]LogFileHelpers: InternalPromptForCheckoutAndSave took 115 ms (total: 1.75 sec)
+[2024.04.29-09.54.25:571][773]AssetCheck: New page: Asset Save: BP_Elevator
+[2024.04.29-09.54.25:571][773]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LDIs/Elevator/BP_Elevator.BP_Elevator
+[2024.04.29-09.55.17:309][640]BlueprintLog: New page: Compile BP_Door
+[2024.04.29-09.55.17:336][640]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.04.29-09.55.34:648][989]LogEditorTransaction: Undo Set Vector Property
+[2024.04.29-09.57.05:663][839]LogEditorTransaction: Undo Modify Component(s)
+[2024.04.29-09.58.05:518][381]BlueprintLog: New page: Compile BP_Elevator
+[2024.04.29-09.58.05:570][381]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.04.29-09.59.10:387][321]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.29-09.59.10:487][321]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LDIs/Elevator/BP_Elevator" FILE="D:/Virgile/Dossier Unreal/Unreal/2024_Supcrea_RanduFinal/Hacking_Project/Content/LDIs/Elevator/BP_Elevator.uasset" SILENT=true
+[2024.04.29-09.59.10:493][321]LogSavePackage: Moving output files for package: /Game/LDIs/Elevator/BP_Elevator
+[2024.04.29-09.59.10:493][321]LogSavePackage: Moving 'D:/Virgile/Dossier Unreal/Unreal/2024_Supcrea_RanduFinal/Hacking_Project/Saved/BP_ElevatorE538142F46E8369D877936AE228A0CBC.tmp' to 'D:/Virgile/Dossier Unreal/Unreal/2024_Supcrea_RanduFinal/Hacking_Project/Content/LDIs/Elevator/BP_Elevator.uasset'
+[2024.04.29-09.59.10:528][321]LogFileHelpers: InternalPromptForCheckoutAndSave took 142 ms (total: 1.89 sec)
+[2024.04.29-09.59.10:530][321]AssetCheck: New page: Asset Save: BP_Elevator
+[2024.04.29-09.59.10:530][321]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LDIs/Elevator/BP_Elevator.BP_Elevator
+[2024.04.29-09.59.12:093][446]LogSlate: Took 0.005604 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.04.29-10.01.55:376][223]LogDerivedDataCache: D:/EDUSERVICES/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.049 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 982 files in 1612 folders with total size 69 MiB.
+[2024.04.29-10.02.22:799][101]BlueprintLog: New page: Compile BP_Elevator
+[2024.04.29-10.02.22:826][101]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.04.29-10.02.23:567][163]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.29-10.02.23:670][163]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LDIs/Elevator/BP_Elevator" FILE="D:/Virgile/Dossier Unreal/Unreal/2024_Supcrea_RanduFinal/Hacking_Project/Content/LDIs/Elevator/BP_Elevator.uasset" SILENT=true
+[2024.04.29-10.02.23:679][163]LogSavePackage: Moving output files for package: /Game/LDIs/Elevator/BP_Elevator
+[2024.04.29-10.02.23:680][163]LogSavePackage: Moving 'D:/Virgile/Dossier Unreal/Unreal/2024_Supcrea_RanduFinal/Hacking_Project/Saved/BP_ElevatorFEA5EA7A4E7E7F1EEAAC2EA30F34768E.tmp' to 'D:/Virgile/Dossier Unreal/Unreal/2024_Supcrea_RanduFinal/Hacking_Project/Content/LDIs/Elevator/BP_Elevator.uasset'
+[2024.04.29-10.02.23:697][163]LogFileHelpers: InternalPromptForCheckoutAndSave took 128 ms (total: 2.02 sec)
+[2024.04.29-10.02.23:698][163]AssetCheck: New page: Asset Save: BP_Elevator
+[2024.04.29-10.02.23:698][163]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LDIs/Elevator/BP_Elevator.BP_Elevator
+[2024.04.29-10.05.27:669][686]BlueprintLog: New page: Compile BP_Elevator
+[2024.04.29-10.05.27:698][686]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.04.29-10.05.29:810][886]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.29-10.05.29:910][886]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LDIs/Elevator/BP_Elevator" FILE="D:/Virgile/Dossier Unreal/Unreal/2024_Supcrea_RanduFinal/Hacking_Project/Content/LDIs/Elevator/BP_Elevator.uasset" SILENT=true
+[2024.04.29-10.05.29:918][886]LogSavePackage: Moving output files for package: /Game/LDIs/Elevator/BP_Elevator
+[2024.04.29-10.05.29:919][886]LogSavePackage: Moving 'D:/Virgile/Dossier Unreal/Unreal/2024_Supcrea_RanduFinal/Hacking_Project/Saved/BP_Elevator7BEF4DE14D3F2C10435C8E88F857237A.tmp' to 'D:/Virgile/Dossier Unreal/Unreal/2024_Supcrea_RanduFinal/Hacking_Project/Content/LDIs/Elevator/BP_Elevator.uasset'
+[2024.04.29-10.05.29:932][886]LogFileHelpers: InternalPromptForCheckoutAndSave took 121 ms (total: 2.14 sec)
+[2024.04.29-10.05.29:934][886]AssetCheck: New page: Asset Save: BP_Elevator
+[2024.04.29-10.05.29:934][886]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LDIs/Elevator/BP_Elevator.BP_Elevator
+[2024.04.29-10.06.16:248][758]BlueprintLog: New page: Compile BP_Elevator
+[2024.04.29-10.06.16:276][758]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.04.29-10.06.18:305][898]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.29-10.06.18:408][898]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LDIs/Elevator/BP_Elevator" FILE="D:/Virgile/Dossier Unreal/Unreal/2024_Supcrea_RanduFinal/Hacking_Project/Content/LDIs/Elevator/BP_Elevator.uasset" SILENT=true
+[2024.04.29-10.06.18:416][898]LogSavePackage: Moving output files for package: /Game/LDIs/Elevator/BP_Elevator
+[2024.04.29-10.06.18:416][898]LogSavePackage: Moving 'D:/Virgile/Dossier Unreal/Unreal/2024_Supcrea_RanduFinal/Hacking_Project/Saved/BP_Elevator74AF1DD54441FEB56958A1AE7805B59B.tmp' to 'D:/Virgile/Dossier Unreal/Unreal/2024_Supcrea_RanduFinal/Hacking_Project/Content/LDIs/Elevator/BP_Elevator.uasset'
+[2024.04.29-10.06.18:434][898]LogFileHelpers: InternalPromptForCheckoutAndSave took 128 ms (total: 2.27 sec)
+[2024.04.29-10.06.18:436][898]AssetCheck: New page: Asset Save: BP_Elevator
+[2024.04.29-10.06.18:436][898]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LDIs/Elevator/BP_Elevator.BP_Elevator
+[2024.04.29-10.06.39:544][890]BlueprintLog: New page: Compile BP_Elevator
+[2024.04.29-10.06.39:571][890]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.04.29-10.06.40:342][950]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.29-10.06.40:436][950]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LDIs/Elevator/BP_Elevator" FILE="D:/Virgile/Dossier Unreal/Unreal/2024_Supcrea_RanduFinal/Hacking_Project/Content/LDIs/Elevator/BP_Elevator.uasset" SILENT=true
+[2024.04.29-10.06.40:444][950]LogSavePackage: Moving output files for package: /Game/LDIs/Elevator/BP_Elevator
+[2024.04.29-10.06.40:445][950]LogSavePackage: Moving 'D:/Virgile/Dossier Unreal/Unreal/2024_Supcrea_RanduFinal/Hacking_Project/Saved/BP_ElevatorD0374FAD49F9FDBB61695795278B8BB5.tmp' to 'D:/Virgile/Dossier Unreal/Unreal/2024_Supcrea_RanduFinal/Hacking_Project/Content/LDIs/Elevator/BP_Elevator.uasset'
+[2024.04.29-10.06.40:458][950]LogFileHelpers: InternalPromptForCheckoutAndSave took 116 ms (total: 2.39 sec)
+[2024.04.29-10.06.40:459][950]AssetCheck: New page: Asset Save: BP_Elevator
+[2024.04.29-10.06.40:459][950]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LDIs/Elevator/BP_Elevator.BP_Elevator
+[2024.04.29-10.08.44:133][225]BlueprintLog: New page: Compile BP_Elevator
+[2024.04.29-10.08.44:161][225]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.04.29-10.08.45:916][388]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.29-10.08.46:004][388]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LDIs/Elevator/BP_Elevator" FILE="D:/Virgile/Dossier Unreal/Unreal/2024_Supcrea_RanduFinal/Hacking_Project/Content/LDIs/Elevator/BP_Elevator.uasset" SILENT=true
+[2024.04.29-10.08.46:014][388]LogSavePackage: Moving output files for package: /Game/LDIs/Elevator/BP_Elevator
+[2024.04.29-10.08.46:014][388]LogSavePackage: Moving 'D:/Virgile/Dossier Unreal/Unreal/2024_Supcrea_RanduFinal/Hacking_Project/Saved/BP_Elevator6B6AC2E64F70BDD0C03F618824F6AC32.tmp' to 'D:/Virgile/Dossier Unreal/Unreal/2024_Supcrea_RanduFinal/Hacking_Project/Content/LDIs/Elevator/BP_Elevator.uasset'
+[2024.04.29-10.08.46:024][388]LogFileHelpers: InternalPromptForCheckoutAndSave took 108 ms (total: 2.49 sec)
+[2024.04.29-10.08.46:026][388]AssetCheck: New page: Asset Save: BP_Elevator
+[2024.04.29-10.08.46:026][388]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LDIs/Elevator/BP_Elevator.BP_Elevator
+[2024.04.29-10.15.12:820][564]BlueprintLog: New page: Compile BP_Elevator
+[2024.04.29-10.15.12:857][564]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.04.29-10.15.16:868][947]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.29-10.15.16:961][947]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LDIs/Elevator/BP_Elevator" FILE="D:/Virgile/Dossier Unreal/Unreal/2024_Supcrea_RanduFinal/Hacking_Project/Content/LDIs/Elevator/BP_Elevator.uasset" SILENT=true
+[2024.04.29-10.15.16:971][947]LogSavePackage: Moving output files for package: /Game/LDIs/Elevator/BP_Elevator
+[2024.04.29-10.15.16:972][947]LogSavePackage: Moving 'D:/Virgile/Dossier Unreal/Unreal/2024_Supcrea_RanduFinal/Hacking_Project/Saved/BP_Elevator252C4CD14A659C9C96E2C09FB2766603.tmp' to 'D:/Virgile/Dossier Unreal/Unreal/2024_Supcrea_RanduFinal/Hacking_Project/Content/LDIs/Elevator/BP_Elevator.uasset'
+[2024.04.29-10.15.16:985][947]LogFileHelpers: InternalPromptForCheckoutAndSave took 117 ms (total: 2.61 sec)
+[2024.04.29-10.15.16:986][947]AssetCheck: New page: Asset Save: BP_Elevator
+[2024.04.29-10.15.16:986][947]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LDIs/Elevator/BP_Elevator.BP_Elevator
+[2024.04.29-10.16.26:748][731]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.04.29-10.16.26:754][731]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Level_1_Virgile_Auto9
+[2024.04.29-10.16.26:754][731]LogSavePackage: Moving 'D:/Virgile/Dossier Unreal/Unreal/2024_Supcrea_RanduFinal/Hacking_Project/Saved/Level_1_Virgile_Auto9C00B342C454BEFB7D826BF9BA22C53DA.tmp' to 'D:/Virgile/Dossier Unreal/Unreal/2024_Supcrea_RanduFinal/Hacking_Project/Saved/Autosaves/Game/Maps/Level_1_Virgile_Auto9.umap'
+[2024.04.29-10.16.26:755][731]LogAssetRegistry: Warning: ScanPathsSynchronous: D:/Virgile/Dossier Unreal/Unreal/2024_Supcrea_RanduFinal/Hacking_Project/Saved/Autosaves/Game/Maps/Level_1_Virgile_Auto9.umap is in the /Temp path, will not scan.
+[2024.04.29-10.16.26:755][731]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/Maps/Level_1_Virgile_Auto9 is in the /Temp path, will not scan.
+[2024.04.29-10.16.26:755][731]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Maps/Level_1_Virgile_Auto9 is in the /Temp path, will not scan.
+[2024.04.29-10.16.26:755][731]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Level_1_Virgile' took 0.019
+[2024.04.29-10.16.26:755][731]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.019
+[2024.04.29-10.16.26:755][731]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/LDIs/BP_Door] ([2] browsable assets)...
+[2024.04.29-10.16.26:802][731]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/LDIs/BP_Door.BP_Door]
+[2024.04.29-10.16.26:802][731]OBJ SavePackage: Finished generating thumbnails for package [/Game/LDIs/BP_Door]
+[2024.04.29-10.16.26:818][731]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LDIs/BP_Door_Auto9
+[2024.04.29-10.16.26:818][731]LogSavePackage: Moving 'D:/Virgile/Dossier Unreal/Unreal/2024_Supcrea_RanduFinal/Hacking_Project/Saved/BP_Door_Auto97B4FA4FC4A2FD3EE7DBB6881FE0CCE99.tmp' to 'D:/Virgile/Dossier Unreal/Unreal/2024_Supcrea_RanduFinal/Hacking_Project/Saved/Autosaves/Game/LDIs/BP_Door_Auto9.uasset'
+[2024.04.29-10.16.26:819][731]LogFileHelpers: Auto-saving content packages took 0.064
+[2024.04.29-10.23.11:804][479]BlueprintLog: New page: Compile BP_Elevator
+[2024.04.29-10.23.11:837][479]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.04.29-10.27.26:234][669]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.04.29-10.27.26:238][669]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Level_1_Virgile' took 0.018
+[2024.04.29-10.27.26:238][669]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/LDIs/Elevator/BP_Elevator] ([2] browsable assets)...
+[2024.04.29-10.27.26:284][669]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/LDIs/Elevator/BP_Elevator.BP_Elevator]
+[2024.04.29-10.27.26:284][669]OBJ SavePackage: Finished generating thumbnails for package [/Game/LDIs/Elevator/BP_Elevator]
+[2024.04.29-10.27.26:296][669]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LDIs/Elevator/BP_Elevator_Auto0
+[2024.04.29-10.27.26:296][669]LogSavePackage: Moving 'D:/Virgile/Dossier Unreal/Unreal/2024_Supcrea_RanduFinal/Hacking_Project/Saved/BP_Elevator_Auto064FE20B94368E9A6F7942789B810FBE6.tmp' to 'D:/Virgile/Dossier Unreal/Unreal/2024_Supcrea_RanduFinal/Hacking_Project/Saved/Autosaves/Game/LDIs/Elevator/BP_Elevator_Auto0.uasset'
+[2024.04.29-10.27.26:297][669]LogFileHelpers: Auto-saving content packages took 0.059
+[2024.04.29-10.29.48:792][927]LogEditorTransaction: Undo Mouse Drag
+[2024.04.29-10.29.54:980][479]BlueprintLog: New page: Compile BP_Elevator
+[2024.04.29-10.29.55:009][479]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.04.29-10.31.30:699][761]BlueprintLog: New page: Compile BP_Elevator
+[2024.04.29-10.31.30:730][761]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.04.29-10.31.32:024][882]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.29-10.31.32:122][882]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LDIs/Elevator/BP_Elevator" FILE="D:/Virgile/Dossier Unreal/Unreal/2024_Supcrea_RanduFinal/Hacking_Project/Content/LDIs/Elevator/BP_Elevator.uasset" SILENT=true
+[2024.04.29-10.31.32:134][882]LogSavePackage: Moving output files for package: /Game/LDIs/Elevator/BP_Elevator
+[2024.04.29-10.31.32:134][882]LogSavePackage: Moving 'D:/Virgile/Dossier Unreal/Unreal/2024_Supcrea_RanduFinal/Hacking_Project/Saved/BP_Elevator0EE8C5304792E8FEBBAD9FAA718CFA49.tmp' to 'D:/Virgile/Dossier Unreal/Unreal/2024_Supcrea_RanduFinal/Hacking_Project/Content/LDIs/Elevator/BP_Elevator.uasset'
+[2024.04.29-10.31.32:146][882]LogFileHelpers: InternalPromptForCheckoutAndSave took 122 ms (total: 2.73 sec)
+[2024.04.29-10.31.32:147][882]AssetCheck: New page: Asset Save: BP_Elevator
+[2024.04.29-10.31.32:147][882]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LDIs/Elevator/BP_Elevator.BP_Elevator
+[2024.04.29-10.33.17:902][421]BlueprintLog: New page: Compile BP_Elevator
+[2024.04.29-10.33.17:932][421]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.04.29-10.39.47:988][732]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.04.29-10.39.47:995][732]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Level_1_Virgile_Auto1
+[2024.04.29-10.39.47:995][732]LogSavePackage: Moving 'D:/Virgile/Dossier Unreal/Unreal/2024_Supcrea_RanduFinal/Hacking_Project/Saved/Level_1_Virgile_Auto1CF622A3B44A760B87E0260BCE43B0EB1.tmp' to 'D:/Virgile/Dossier Unreal/Unreal/2024_Supcrea_RanduFinal/Hacking_Project/Saved/Autosaves/Game/Maps/Level_1_Virgile_Auto1.umap'
+[2024.04.29-10.39.47:996][732]LogAssetRegistry: Warning: ScanPathsSynchronous: D:/Virgile/Dossier Unreal/Unreal/2024_Supcrea_RanduFinal/Hacking_Project/Saved/Autosaves/Game/Maps/Level_1_Virgile_Auto1.umap is in the /Temp path, will not scan.
+[2024.04.29-10.39.47:996][732]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Level_1_Virgile' took 0.024
+[2024.04.29-10.39.47:996][732]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.024
+[2024.04.29-10.39.47:997][732]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LDIs/BP_Door] ([2] browsable assets)...
+[2024.04.29-10.39.47:997][732]OBJ SavePackage: Finished generating thumbnails for package [/Game/LDIs/BP_Door]
+[2024.04.29-10.39.48:013][732]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LDIs/BP_Door_Auto1
+[2024.04.29-10.39.48:013][732]LogSavePackage: Moving 'D:/Virgile/Dossier Unreal/Unreal/2024_Supcrea_RanduFinal/Hacking_Project/Saved/BP_Door_Auto136E25109464D4DEA4D2F7D90D74B1B0F.tmp' to 'D:/Virgile/Dossier Unreal/Unreal/2024_Supcrea_RanduFinal/Hacking_Project/Saved/Autosaves/Game/LDIs/BP_Door_Auto1.uasset'
+[2024.04.29-10.39.48:014][732]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/LDIs/Elevator/BP_Elevator] ([2] browsable assets)...
+[2024.04.29-10.39.48:059][732]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/LDIs/Elevator/BP_Elevator.BP_Elevator]
+[2024.04.29-10.39.48:059][732]OBJ SavePackage: Finished generating thumbnails for package [/Game/LDIs/Elevator/BP_Elevator]
+[2024.04.29-10.39.48:072][732]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LDIs/Elevator/BP_Elevator_Auto1
+[2024.04.29-10.39.48:072][732]LogSavePackage: Moving 'D:/Virgile/Dossier Unreal/Unreal/2024_Supcrea_RanduFinal/Hacking_Project/Saved/BP_Elevator_Auto15929F4B64517F962647907BA83DD0268.tmp' to 'D:/Virgile/Dossier Unreal/Unreal/2024_Supcrea_RanduFinal/Hacking_Project/Saved/Autosaves/Game/LDIs/Elevator/BP_Elevator_Auto1.uasset'
+[2024.04.29-10.39.48:072][732]LogFileHelpers: Auto-saving content packages took 0.076
+[2024.04.29-10.39.55:119][401]BlueprintLog: New page: Compile BP_Elevator
+[2024.04.29-10.39.55:148][401]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.04.29-10.39.55:739][449]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.29-10.39.55:828][449]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LDIs/Elevator/BP_Elevator" FILE="D:/Virgile/Dossier Unreal/Unreal/2024_Supcrea_RanduFinal/Hacking_Project/Content/LDIs/Elevator/BP_Elevator.uasset" SILENT=true
+[2024.04.29-10.39.55:841][449]LogSavePackage: Moving output files for package: /Game/LDIs/Elevator/BP_Elevator
+[2024.04.29-10.39.55:842][449]LogSavePackage: Moving 'D:/Virgile/Dossier Unreal/Unreal/2024_Supcrea_RanduFinal/Hacking_Project/Saved/BP_Elevator9DC2F672467DB24AB7578493270D7F0F.tmp' to 'D:/Virgile/Dossier Unreal/Unreal/2024_Supcrea_RanduFinal/Hacking_Project/Content/LDIs/Elevator/BP_Elevator.uasset'
+[2024.04.29-10.39.55:852][449]LogFileHelpers: InternalPromptForCheckoutAndSave took 113 ms (total: 2.85 sec)
+[2024.04.29-10.39.55:854][449]AssetCheck: New page: Asset Save: BP_Elevator
+[2024.04.29-10.39.55:854][449]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LDIs/Elevator/BP_Elevator.BP_Elevator
+[2024.04.29-10.43.01:750][ 22]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'UTimelineComponent::SetPlayRate' [Élément introuvable.]
+[2024.04.29-10.43.02:350][ 39]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'UTimelineComponent::SetPlayRate' [Le module spécifié est introuvable.]
+[2024.04.29-10.43.14:230][125]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'USceneComponent::K2_SetRelativeLocation' [Le module spécifié est introuvable.]
+[2024.04.29-10.55.55:710][825]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Haut-parleurs (High Definition Audio Device), InstanceID=1
+[2024.04.29-10.55.55:862][825]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=7920
+[2024.04.29-10.55.55:895][827]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{ea70aa89-980e-4286-af37-1eec224cffde}, Name=Haut-parleurs (High Definition Audio Device)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=17.65
+[2024.04.29-10.55.55:895][827]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.04.29-10.55.55:897][827]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.04.29-11.01.55:373][800]LogDerivedDataCache: D:/EDUSERVICES/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.046 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 982 files in 1612 folders with total size 69 MiB.
+[2024.04.29-11.08.22:951][305]LogSlate: Window 'BP_Elevator' being destroyed
+[2024.04.29-11.08.22:958][305]LogSlate: Window 'BP_Elevator' being destroyed
+[2024.04.29-11.08.22:964][305]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.04.29-11.08.22:964][305]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.29-11.08.23:029][305]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.04.29-11.08.23:029][305]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.04.29-11.08.23:029][305]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.29-11.08.23:104][305]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.04.29-11.08.23:104][305]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2024.04.29-11.08.23:104][305]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.29-11.08.26:735][723]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.29-11.08.26:787][723]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LDIs/Elevator/BP_Elevator" FILE="D:/Virgile/Dossier Unreal/Unreal/2024_Supcrea_RanduFinal/Hacking_Project/Content/LDIs/Elevator/BP_Elevator.uasset" SILENT=true
+[2024.04.29-11.08.26:800][723]LogSavePackage: Moving output files for package: /Game/LDIs/Elevator/BP_Elevator
+[2024.04.29-11.08.26:800][723]LogSavePackage: Moving 'D:/Virgile/Dossier Unreal/Unreal/2024_Supcrea_RanduFinal/Hacking_Project/Saved/BP_Elevator5D644451454AAE35FF1622B3A8C1E791.tmp' to 'D:/Virgile/Dossier Unreal/Unreal/2024_Supcrea_RanduFinal/Hacking_Project/Content/LDIs/Elevator/BP_Elevator.uasset'
+[2024.04.29-11.08.26:808][723]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 2.92 sec)
+[2024.04.29-11.08.26:809][723]AssetCheck: New page: Asset Save: BP_Elevator
+[2024.04.29-11.08.26:809][723]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LDIs/Elevator/BP_Elevator.BP_Elevator
