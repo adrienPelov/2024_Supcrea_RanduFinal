@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"T:/2024_Supcrea_RanduFinal/Hacking_Project/Content/Hacking/_Base/BP_HackTarget.uasset",
+				"T:/2024_Supcrea_RanduFinal/Hacking_Project/Content/LDIs/BP_Chest.uasset",
+				"T:/2024_Supcrea_RanduFinal/Hacking_Project/Content/Maps/Level_2_Agathe.umap",
 				"D:/Virgile/Dossier Unreal/Unreal/2024_Supcrea_RanduFinal/Hacking_Project/Content/Maps/Level_1_Virgile.umap",
 				"D:/Virgile/Dossier Unreal/Unreal/2024_Supcrea_RanduFinal/Hacking_Project/Content/RoomTool/_Textures/D_WallStain_Bot_A.uasset",
 				"D:/Virgile/Dossier Unreal/Unreal/2024_Supcrea_RanduFinal/Hacking_Project/Content/RoomTool/_Textures/D_WallStain_Bot_B.uasset",
