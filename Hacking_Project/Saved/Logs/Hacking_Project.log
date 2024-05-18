@@ -6164,3 +6164,603 @@ LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
 [2024.05.18-13.52.01:422][994]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
 [2024.05.18-13.52.01:427][994]Cmd: MAP CHECKDEP NOCLEARLOG
 [2024.05.18-13.52.01:427][994]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,087ms to complete.
+[2024.05.18-13.52.50:172][743]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.18-13.52.50:173][743]PIE: New page: PIE session: Level_2_Agathe (18 mai 2024 à 17:52:50)
+[2024.05.18-13.52.50:173][743]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_2_Agathe
+[2024.05.18-13.52.50:184][743]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011284s)
+[2024.05.18-13.52.50:185][743]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_2_Agathe.Level_2_Agathe to /Game/Maps/UEDPIE_0_Level_2_Agathe.Level_2_Agathe (0.011326s)
+[2024.05.18-13.52.50:203][743]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.05.18-13.52.50:206][743]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.18-13.52.50:206][743]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.18-13.52.50:206][743]LogAIModule: Creating AISystem for world Level_2_Agathe
+[2024.05.18-13.52.50:207][743]LogPlayLevel: PIE: World Init took: (0.001079s)
+[2024.05.18-13.52.50:207][743]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2024.05.18-13.52.50:207][743]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.18-13.52.50:207][743]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.18-13.52.50:207][743]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.18-13.52.50:207][743]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.18-13.52.50:207][743]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.05.18-13.52.50:207][743]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.18-13.52.50:207][743]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.05.18-13.52.50:207][743]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.18-13.52.50:207][743]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.18-13.52.50:207][743]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.18-13.52.50:207][743]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.18-13.52.50:210][743]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.18-13.52.50:237][743]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (HyperX Virtual Surround Sound)
+[2024.05.18-13.52.50:237][743]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.18-13.52.50:237][743]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.18-13.52.50:238][743]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.18-13.52.50:238][743]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2024.05.18-13.52.50:238][743]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2024.05.18-13.52.50:241][743]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2024.05.18-13.52.50:241][743]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2024.05.18-13.52.50:241][743]LogInit: FAudioDevice initialized with ID 15.
+[2024.05.18-13.52.50:241][743]LogAudio: Display: Audio Device (ID: 15) registered with world 'Level_2_Agathe'.
+[2024.05.18-13.52.50:241][743]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2024.05.18-13.52.50:243][743]LogLoad: Game class is 'BP_HackingGameMode_C'
+[2024.05.18-13.52.50:249][743]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_2_Agathe.Level_2_Agathe up for play (max tick rate 0) at 2024.05.18-15.52.50
+[2024.05.18-13.52.50:249][743]LogWorld: Bringing up level for play took: 0.005586
+[2024.05.18-13.52.50:251][743]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2024.05.18-13.52.50:256][743]PIE: Server logged in
+[2024.05.18-13.52.50:256][743]PIE: Play in editor total start time 0,085 seconds.
+[2024.05.18-13.52.53:709][886]LogBlueprintUserMessages: [BP_ObjectiveReach_C_1] BP_ObjectiveReach | Player ENTER
+[2024.05.18-13.52.53:709][886]LogBlueprintUserMessages: [BP_ObjectiveReach_C_1] Interact (E)
+[2024.05.18-13.52.53:709][886]LogBlueprintUserMessages: [BP_ObjectiveReach_C_1] Interact (E)
+[2024.05.18-13.52.53:709][886]LogBlueprintUserMessages: [BP_ObjectiveReach_C_1] BP_ObjectiveReach | Interaction END
+[2024.05.18-13.52.53:709][886]LogBlueprintUserMessages: [BP_ObjectiveReach_C_1] BP_ObjectiveReach | Player EXIT
+[2024.05.18-13.52.53:709][886]LogBlueprintUserMessages: [BP_ObjectiveReach_C_1] Interact (E)
+[2024.05.18-13.52.53:711][886]LogLongPackageNames: Warning: Can't Find URL: 0: . Invalidating and reverting to Default URL.
+[2024.05.18-13.52.53:730][887]LogLongPackageNames: Warning: Can't Find URL: 0: . Invalidating and reverting to Default URL.
+[2024.05.18-13.52.53:730][887]LogNet: Browse: /Game/Maps/Level_Gym
+[2024.05.18-13.52.53:754][887]LogNet: Warning: Travel Failure: [InvalidURL]: Invalid URL: /Game/Maps/Level_Gym
+[2024.05.18-13.52.53:755][887]LogNet: TravelFailure: InvalidURL, Reason for Failure: 'Invalid URL: /Game/Maps/Level_Gym'
+[2024.05.18-13.52.53:755][887]LogNet: Warning: Travel Failure: [ClientTravelFailure]: Invalid URL: /Game/Maps/Level_Gym
+[2024.05.18-13.52.53:755][887]LogNet: TravelFailure: ClientTravelFailure, Reason for Failure: 'Invalid URL: /Game/Maps/Level_Gym'
+[2024.05.18-13.52.53:761][888]LogNet: Browse: /Game/Maps/Level_Gym?closed
+[2024.05.18-13.52.53:761][888]LogNet: Connection failed; returning to Entry
+[2024.05.18-13.52.53:761][888]LogLoad: LoadMap: /Game/Maps/Level_Gym?closed
+[2024.05.18-13.52.53:761][888]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level_2_Agathe
+[2024.05.18-13.52.53:762][888]LogWorld: UWorld::CleanupWorld for Level_2_Agathe, bSessionEnded=true, bCleanupResources=true
+[2024.05.18-13.52.53:762][888]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.18-13.52.53:820][888]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.18-13.52.53:823][888]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.05.18-13.52.53:837][888]LogAudio: Display: Audio Device (ID: 15) registered with world 'Level_Gym'.
+[2024.05.18-13.52.53:837][888]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.18-13.52.53:837][888]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.18-13.52.53:838][888]LogAIModule: Creating AISystem for world Level_Gym
+[2024.05.18-13.52.53:838][888]LogPlayLevel: PIE: World Init took: (0.001280s)
+[2024.05.18-13.52.53:838][888]LogLoad: Game class is 'BP_HackingGameMode_C'
+[2024.05.18-13.52.53:855][888]LogBlueprintUserMessages: [BPT_Room_C_1] Collision with: BPT_Room | Component: BPT_Room.NODE_AddStaticMeshComponent-3_21 MDL_Wall
+[2024.05.18-13.52.53:855][888]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2024.05.18-13.52.53:855][888]LogScript: Warning: Script Msg called by: BPT_Room_C /Game/Maps/UEDPIE_0_Level_Gym.Level_Gym:PersistentLevel.BPT_Room_C_1
+[2024.05.18-13.52.53:855][888]LogScript: Warning: Accessed None trying to read property L_meshComp
+	BPT_Room_C /Game/Maps/UEDPIE_0_Level_Gym.Level_Gym:PersistentLevel.BPT_Room_C_1
+	Function /Game/RoomTool/BPT_Room.BPT_Room_C:GenerateDecal:036F
+[2024.05.18-13.52.53:855][888]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property L_meshComp". Node:  Set L_decalTransform Graph:  GenerateDecal Function:  Generate Decal Blueprint:  BPT_Room
+[2024.05.18-13.52.53:855][888]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2024.05.18-13.52.53:855][888]LogScript: Warning: Script Msg called by: BPT_Room_C /Game/Maps/UEDPIE_0_Level_Gym.Level_Gym:PersistentLevel.BPT_Room_C_1
+[2024.05.18-13.52.53:855][888]LogScript: Warning: Accessed None trying to read property L_meshComp
+	BPT_Room_C /Game/Maps/UEDPIE_0_Level_Gym.Level_Gym:PersistentLevel.BPT_Room_C_1
+	Function /Game/RoomTool/BPT_Room.BPT_Room_C:GenerateDecal:036F
+[2024.05.18-13.52.53:855][888]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property L_meshComp". Node:  Set L_decalTransform Graph:  GenerateDecal Function:  Generate Decal Blueprint:  BPT_Room
+[2024.05.18-13.52.53:855][888]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2024.05.18-13.52.53:855][888]LogScript: Warning: Script Msg called by: BPT_Room_C /Game/Maps/UEDPIE_0_Level_Gym.Level_Gym:PersistentLevel.BPT_Room_C_1
+[2024.05.18-13.52.53:855][888]LogScript: Warning: Accessed None trying to read property L_meshComp
+	BPT_Room_C /Game/Maps/UEDPIE_0_Level_Gym.Level_Gym:PersistentLevel.BPT_Room_C_1
+	Function /Game/RoomTool/BPT_Room.BPT_Room_C:GenerateDecal:0292
+[2024.05.18-13.52.53:855][888]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property L_meshComp". Node:  Set L_decalTransform Graph:  GenerateDecal Function:  Generate Decal Blueprint:  BPT_Room
+[2024.05.18-13.52.53:855][888]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2024.05.18-13.52.53:855][888]LogScript: Warning: Script Msg called by: BPT_Room_C /Game/Maps/UEDPIE_0_Level_Gym.Level_Gym:PersistentLevel.BPT_Room_C_1
+[2024.05.18-13.52.53:856][888]LogScript: Warning: Accessed None trying to read property L_meshComp
+	BPT_Room_C /Game/Maps/UEDPIE_0_Level_Gym.Level_Gym:PersistentLevel.BPT_Room_C_1
+	Function /Game/RoomTool/BPT_Room.BPT_Room_C:GenerateDecal:016E
+[2024.05.18-13.52.53:856][888]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property L_meshComp". Node:  Set L_decalTransform Graph:  GenerateDecal Function:  Generate Decal Blueprint:  BPT_Room
+[2024.05.18-13.52.53:856][888]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2024.05.18-13.52.53:856][888]LogScript: Warning: Script Msg called by: BPT_Room_C /Game/Maps/UEDPIE_0_Level_Gym.Level_Gym:PersistentLevel.BPT_Room_C_1
+[2024.05.18-13.52.53:856][888]LogScript: Warning: Accessed None trying to read property L_meshComp
+	BPT_Room_C /Game/Maps/UEDPIE_0_Level_Gym.Level_Gym:PersistentLevel.BPT_Room_C_1
+	Function /Game/RoomTool/BPT_Room.BPT_Room_C:GenerateDecal:0292
+[2024.05.18-13.52.53:856][888]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property L_meshComp". Node:  Set L_decalTransform Graph:  GenerateDecal Function:  Generate Decal Blueprint:  BPT_Room
+[2024.05.18-13.52.53:856][888]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2024.05.18-13.52.53:856][888]LogScript: Warning: Script Msg called by: BPT_Room_C /Game/Maps/UEDPIE_0_Level_Gym.Level_Gym:PersistentLevel.BPT_Room_C_1
+[2024.05.18-13.52.53:856][888]LogScript: Warning: Accessed None trying to read property L_meshComp
+	BPT_Room_C /Game/Maps/UEDPIE_0_Level_Gym.Level_Gym:PersistentLevel.BPT_Room_C_1
+	Function /Game/RoomTool/BPT_Room.BPT_Room_C:GenerateDecal:036F
+[2024.05.18-13.52.53:856][888]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property L_meshComp". Node:  Set L_decalTransform Graph:  GenerateDecal Function:  Generate Decal Blueprint:  BPT_Room
+[2024.05.18-13.52.53:856][888]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2024.05.18-13.52.53:856][888]LogScript: Warning: Script Msg called by: BPT_Room_C /Game/Maps/UEDPIE_0_Level_Gym.Level_Gym:PersistentLevel.BPT_Room_C_1
+[2024.05.18-13.52.53:856][888]LogScript: Warning: Accessed None trying to read property L_meshComp
+	BPT_Room_C /Game/Maps/UEDPIE_0_Level_Gym.Level_Gym:PersistentLevel.BPT_Room_C_1
+	Function /Game/RoomTool/BPT_Room.BPT_Room_C:GenerateDecal:0292
+[2024.05.18-13.52.53:856][888]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property L_meshComp". Node:  Set L_decalTransform Graph:  GenerateDecal Function:  Generate Decal Blueprint:  BPT_Room
+[2024.05.18-13.52.53:856][888]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2024.05.18-13.52.53:856][888]LogScript: Warning: Script Msg called by: BPT_Room_C /Game/Maps/UEDPIE_0_Level_Gym.Level_Gym:PersistentLevel.BPT_Room_C_1
+[2024.05.18-13.52.53:856][888]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property L_meshComp". Node:  Set L_decalTransform Graph:  GenerateDecal Function:  Generate Decal Blueprint:  BPT_Room
+[2024.05.18-13.52.53:856][888]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2024.05.18-13.52.53:856][888]LogScript: Warning: Script Msg called by: BPT_Room_C /Game/Maps/UEDPIE_0_Level_Gym.Level_Gym:PersistentLevel.BPT_Room_C_1
+[2024.05.18-13.52.53:856][888]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property L_meshComp". Node:  Set L_decalTransform Graph:  GenerateDecal Function:  Generate Decal Blueprint:  BPT_Room
+[2024.05.18-13.52.53:868][888]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_Gym.Level_Gym up for play (max tick rate 0) at 2024.05.18-15.52.53
+[2024.05.18-13.52.53:868][888]LogWorld: Bringing up level for play took: 0.029623
+[2024.05.18-13.52.53:872][888]LogLoad: Took 0.111828 seconds to LoadMap(/Game/Maps/Level_Gym)
+[2024.05.18-13.52.53:894][888]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.05.18-13.52.57:645][ 91]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.18-13.52.57:646][ 91]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level_Gym
+[2024.05.18-13.52.57:646][ 91]LogWorld: UWorld::CleanupWorld for Level_Gym, bSessionEnded=true, bCleanupResources=true
+[2024.05.18-13.52.57:648][ 91]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.18-13.52.57:655][ 91]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.18-13.52.57:664][ 91]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.18-13.52.57:682][ 91]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.18-13.52.57:682][ 91]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2024.05.18-13.52.57:682][ 91]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.05.18-13.52.57:684][ 91]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.05.18-13.52.57:692][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.05.18-13.52.57:920][ 92]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2024.05.18-13.53.04:128][354]LogSlate: Window 'Message Log' being destroyed
+[2024.05.18-13.53.04:154][354]LogSlate: Window 'Message Log' being destroyed
+[2024.05.18-13.53.27:203][511]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.18-13.53.27:213][511]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.18-13.53.27:213][511]PIE: New page: PIE session: Level_2_Agathe (18 mai 2024 à 17:53:27)
+[2024.05.18-13.53.27:244][511]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_2_Agathe
+[2024.05.18-13.53.27:259][511]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014795s)
+[2024.05.18-13.53.27:259][511]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_2_Agathe.Level_2_Agathe to /Game/Maps/UEDPIE_0_Level_2_Agathe.Level_2_Agathe (0.014846s)
+[2024.05.18-13.53.27:274][511]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.05.18-13.53.27:277][511]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.18-13.53.27:277][511]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.18-13.53.27:277][511]LogAIModule: Creating AISystem for world Level_2_Agathe
+[2024.05.18-13.53.27:278][511]LogPlayLevel: PIE: World Init took: (0.001040s)
+[2024.05.18-13.53.27:278][511]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2024.05.18-13.53.27:278][511]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.18-13.53.27:278][511]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.18-13.53.27:278][511]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.18-13.53.27:278][511]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.18-13.53.27:278][511]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.05.18-13.53.27:278][511]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.18-13.53.27:278][511]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.05.18-13.53.27:278][511]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.18-13.53.27:279][511]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.18-13.53.27:279][511]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.18-13.53.27:279][511]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.18-13.53.27:281][511]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.18-13.53.27:308][511]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (HyperX Virtual Surround Sound)
+[2024.05.18-13.53.27:308][511]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.18-13.53.27:308][511]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.18-13.53.27:308][511]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.18-13.53.27:309][511]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2024.05.18-13.53.27:309][511]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2024.05.18-13.53.27:311][511]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2024.05.18-13.53.27:311][511]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2024.05.18-13.53.27:311][511]LogInit: FAudioDevice initialized with ID 16.
+[2024.05.18-13.53.27:311][511]LogAudio: Display: Audio Device (ID: 16) registered with world 'Level_2_Agathe'.
+[2024.05.18-13.53.27:311][511]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2024.05.18-13.53.27:314][511]LogLoad: Game class is 'BP_HackingGameMode_C'
+[2024.05.18-13.53.27:320][511]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_2_Agathe.Level_2_Agathe up for play (max tick rate 0) at 2024.05.18-15.53.27
+[2024.05.18-13.53.27:320][511]LogWorld: Bringing up level for play took: 0.005671
+[2024.05.18-13.53.27:322][511]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2024.05.18-13.53.27:327][511]PIE: Server logged in
+[2024.05.18-13.53.27:327][511]PIE: Play in editor total start time 0,115 seconds.
+[2024.05.18-13.53.28:865][560]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.18-13.53.28:865][560]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level_2_Agathe
+[2024.05.18-13.53.28:865][560]LogWorld: UWorld::CleanupWorld for Level_2_Agathe, bSessionEnded=true, bCleanupResources=true
+[2024.05.18-13.53.28:866][560]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.18-13.53.28:870][560]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.18-13.53.28:876][560]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.18-13.53.28:891][560]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.18-13.53.28:892][560]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2024.05.18-13.53.28:892][560]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.05.18-13.53.28:894][560]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.05.18-13.53.28:903][560]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.05.18-13.53.28:947][561]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2024.05.18-13.53.51:885][629]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.18-13.53.51:885][629]PIE: New page: PIE session: Level_2_Agathe (18 mai 2024 à 17:53:51)
+[2024.05.18-13.53.51:886][629]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_2_Agathe
+[2024.05.18-13.53.51:897][629]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011113s)
+[2024.05.18-13.53.51:897][629]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_2_Agathe.Level_2_Agathe to /Game/Maps/UEDPIE_0_Level_2_Agathe.Level_2_Agathe (0.011154s)
+[2024.05.18-13.53.51:915][629]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2024.05.18-13.53.51:917][629]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.18-13.53.51:918][629]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.18-13.53.51:918][629]LogAIModule: Creating AISystem for world Level_2_Agathe
+[2024.05.18-13.53.51:918][629]LogPlayLevel: PIE: World Init took: (0.000995s)
+[2024.05.18-13.53.51:918][629]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2024.05.18-13.53.51:918][629]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.18-13.53.51:918][629]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.18-13.53.51:918][629]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.18-13.53.51:919][629]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.18-13.53.51:919][629]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.05.18-13.53.51:919][629]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.18-13.53.51:919][629]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.05.18-13.53.51:919][629]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.18-13.53.51:919][629]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.18-13.53.51:919][629]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.18-13.53.51:919][629]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.18-13.53.51:921][629]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.18-13.53.51:947][629]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (HyperX Virtual Surround Sound)
+[2024.05.18-13.53.51:947][629]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.18-13.53.51:947][629]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.18-13.53.51:947][629]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.18-13.53.51:947][629]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2024.05.18-13.53.51:948][629]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2024.05.18-13.53.51:950][629]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2024.05.18-13.53.51:950][629]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2024.05.18-13.53.51:950][629]LogInit: FAudioDevice initialized with ID 17.
+[2024.05.18-13.53.51:950][629]LogAudio: Display: Audio Device (ID: 17) registered with world 'Level_2_Agathe'.
+[2024.05.18-13.53.51:950][629]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2024.05.18-13.53.51:953][629]LogLoad: Game class is 'BP_HackingGameMode_C'
+[2024.05.18-13.53.51:959][629]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_2_Agathe.Level_2_Agathe up for play (max tick rate 0) at 2024.05.18-15.53.51
+[2024.05.18-13.53.51:959][629]LogWorld: Bringing up level for play took: 0.005841
+[2024.05.18-13.53.51:961][629]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2024.05.18-13.53.51:965][629]PIE: Server logged in
+[2024.05.18-13.53.51:966][629]PIE: Play in editor total start time 0,081 seconds.
+[2024.05.18-13.53.55:058][736]LogBlueprintUserMessages: [BP_ObjectiveReach_C_1] BP_ObjectiveReach | Player ENTER
+[2024.05.18-13.53.55:058][736]LogBlueprintUserMessages: [BP_ObjectiveReach_C_1] Interact (E)
+[2024.05.18-13.53.55:058][736]LogBlueprintUserMessages: [BP_ObjectiveReach_C_1] Interact (E)
+[2024.05.18-13.53.55:058][736]LogBlueprintUserMessages: [BP_ObjectiveReach_C_1] BP_ObjectiveReach | Interaction END
+[2024.05.18-13.53.55:058][736]LogBlueprintUserMessages: [BP_ObjectiveReach_C_1] BP_ObjectiveReach | Player EXIT
+[2024.05.18-13.53.55:058][736]LogBlueprintUserMessages: [BP_ObjectiveReach_C_1] Interact (E)
+[2024.05.18-13.53.55:060][736]LogLongPackageNames: Warning: Can't Find URL: zazazaz: . Invalidating and reverting to Default URL.
+[2024.05.18-13.53.55:078][737]LogLongPackageNames: Warning: Can't Find URL: zazazaz: . Invalidating and reverting to Default URL.
+[2024.05.18-13.53.55:078][737]LogNet: Browse: /Game/Maps/Level_Gym
+[2024.05.18-13.53.55:078][737]LogNet: Warning: Travel Failure: [InvalidURL]: Invalid URL: /Game/Maps/Level_Gym
+[2024.05.18-13.53.55:078][737]LogNet: TravelFailure: InvalidURL, Reason for Failure: 'Invalid URL: /Game/Maps/Level_Gym'
+[2024.05.18-13.53.55:079][737]LogNet: Warning: Travel Failure: [ClientTravelFailure]: Invalid URL: /Game/Maps/Level_Gym
+[2024.05.18-13.53.55:079][737]LogNet: TravelFailure: ClientTravelFailure, Reason for Failure: 'Invalid URL: /Game/Maps/Level_Gym'
+[2024.05.18-13.53.55:097][738]LogNet: Browse: /Game/Maps/Level_Gym?closed
+[2024.05.18-13.53.55:097][738]LogNet: Connection failed; returning to Entry
+[2024.05.18-13.53.55:097][738]LogLoad: LoadMap: /Game/Maps/Level_Gym?closed
+[2024.05.18-13.53.55:097][738]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level_2_Agathe
+[2024.05.18-13.53.55:098][738]LogWorld: UWorld::CleanupWorld for Level_2_Agathe, bSessionEnded=true, bCleanupResources=true
+[2024.05.18-13.53.55:099][738]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.18-13.53.55:117][738]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.18-13.53.55:122][738]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2024.05.18-13.53.55:145][738]LogAudio: Display: Audio Device (ID: 17) registered with world 'Level_Gym'.
+[2024.05.18-13.53.55:146][738]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.18-13.53.55:146][738]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.18-13.53.55:146][738]LogAIModule: Creating AISystem for world Level_Gym
+[2024.05.18-13.53.55:147][738]LogPlayLevel: PIE: World Init took: (0.001306s)
+[2024.05.18-13.53.55:147][738]LogLoad: Game class is 'BP_HackingGameMode_C'
+[2024.05.18-13.53.55:162][738]LogBlueprintUserMessages: [BPT_Room_C_1] Collision with: BPT_Room | Component: BPT_Room.NODE_AddStaticMeshComponent-3_21 MDL_Wall
+[2024.05.18-13.53.55:162][738]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2024.05.18-13.53.55:163][738]LogScript: Warning: Script Msg called by: BPT_Room_C /Game/Maps/UEDPIE_0_Level_Gym.Level_Gym:PersistentLevel.BPT_Room_C_1
+[2024.05.18-13.53.55:163][738]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property L_meshComp". Node:  Set L_decalTransform Graph:  GenerateDecal Function:  Generate Decal Blueprint:  BPT_Room
+[2024.05.18-13.53.55:163][738]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2024.05.18-13.53.55:163][738]LogScript: Warning: Script Msg called by: BPT_Room_C /Game/Maps/UEDPIE_0_Level_Gym.Level_Gym:PersistentLevel.BPT_Room_C_1
+[2024.05.18-13.53.55:163][738]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property L_meshComp". Node:  Set L_decalTransform Graph:  GenerateDecal Function:  Generate Decal Blueprint:  BPT_Room
+[2024.05.18-13.53.55:163][738]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2024.05.18-13.53.55:163][738]LogScript: Warning: Script Msg called by: BPT_Room_C /Game/Maps/UEDPIE_0_Level_Gym.Level_Gym:PersistentLevel.BPT_Room_C_1
+[2024.05.18-13.53.55:163][738]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property L_meshComp". Node:  Set L_decalTransform Graph:  GenerateDecal Function:  Generate Decal Blueprint:  BPT_Room
+[2024.05.18-13.53.55:163][738]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2024.05.18-13.53.55:163][738]LogScript: Warning: Script Msg called by: BPT_Room_C /Game/Maps/UEDPIE_0_Level_Gym.Level_Gym:PersistentLevel.BPT_Room_C_1
+[2024.05.18-13.53.55:164][738]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property L_meshComp". Node:  Set L_decalTransform Graph:  GenerateDecal Function:  Generate Decal Blueprint:  BPT_Room
+[2024.05.18-13.53.55:164][738]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2024.05.18-13.53.55:164][738]LogScript: Warning: Script Msg called by: BPT_Room_C /Game/Maps/UEDPIE_0_Level_Gym.Level_Gym:PersistentLevel.BPT_Room_C_1
+[2024.05.18-13.53.55:164][738]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property L_meshComp". Node:  Set L_decalTransform Graph:  GenerateDecal Function:  Generate Decal Blueprint:  BPT_Room
+[2024.05.18-13.53.55:164][738]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2024.05.18-13.53.55:164][738]LogScript: Warning: Script Msg called by: BPT_Room_C /Game/Maps/UEDPIE_0_Level_Gym.Level_Gym:PersistentLevel.BPT_Room_C_1
+[2024.05.18-13.53.55:164][738]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property L_meshComp". Node:  Set L_decalTransform Graph:  GenerateDecal Function:  Generate Decal Blueprint:  BPT_Room
+[2024.05.18-13.53.55:164][738]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2024.05.18-13.53.55:164][738]LogScript: Warning: Script Msg called by: BPT_Room_C /Game/Maps/UEDPIE_0_Level_Gym.Level_Gym:PersistentLevel.BPT_Room_C_1
+[2024.05.18-13.53.55:164][738]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property L_meshComp". Node:  Set L_decalTransform Graph:  GenerateDecal Function:  Generate Decal Blueprint:  BPT_Room
+[2024.05.18-13.53.55:164][738]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2024.05.18-13.53.55:164][738]LogScript: Warning: Script Msg called by: BPT_Room_C /Game/Maps/UEDPIE_0_Level_Gym.Level_Gym:PersistentLevel.BPT_Room_C_1
+[2024.05.18-13.53.55:164][738]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property L_meshComp". Node:  Set L_decalTransform Graph:  GenerateDecal Function:  Generate Decal Blueprint:  BPT_Room
+[2024.05.18-13.53.55:164][738]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2024.05.18-13.53.55:164][738]LogScript: Warning: Script Msg called by: BPT_Room_C /Game/Maps/UEDPIE_0_Level_Gym.Level_Gym:PersistentLevel.BPT_Room_C_1
+[2024.05.18-13.53.55:164][738]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property L_meshComp". Node:  Set L_decalTransform Graph:  GenerateDecal Function:  Generate Decal Blueprint:  BPT_Room
+[2024.05.18-13.53.55:175][738]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_Gym.Level_Gym up for play (max tick rate 0) at 2024.05.18-15.53.55
+[2024.05.18-13.53.55:175][738]LogWorld: Bringing up level for play took: 0.028253
+[2024.05.18-13.53.55:179][738]LogLoad: Took 0.081116 seconds to LoadMap(/Game/Maps/Level_Gym)
+[2024.05.18-13.53.55:195][738]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.05.18-13.53.57:535][857]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.18-13.53.57:535][857]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level_Gym
+[2024.05.18-13.53.57:535][857]LogWorld: UWorld::CleanupWorld for Level_Gym, bSessionEnded=true, bCleanupResources=true
+[2024.05.18-13.53.57:536][857]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.18-13.53.57:551][857]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.18-13.53.57:557][857]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.18-13.53.57:570][857]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.18-13.53.57:571][857]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2024.05.18-13.53.57:571][857]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2024.05.18-13.53.57:573][857]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2024.05.18-13.53.57:581][857]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.05.18-13.53.57:813][858]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2024.05.18-13.53.59:198][899]LogSlate: Window 'Message Log' being destroyed
+[2024.05.18-13.53.59:229][899]LogSlate: Window 'Message Log' being destroyed
+[2024.05.18-13.54.02:500][ 60]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.18-13.54.02:593][ 60]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_2_Agathe" FILE="../../../../2024_Supcrea_RanduFinal/Hacking_Project/Content/Maps/Level_2_Agathe.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.05.18-13.54.02:632][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2024.05.18-13.54.02:678][ 60]LogSavePackage: Moving output files for package: /Game/Maps/Level_2_Agathe
+[2024.05.18-13.54.02:679][ 60]LogSavePackage: Moving '../../../../2024_Supcrea_RanduFinal/Hacking_Project/Saved/Level_2_Agathe017BE76B4F4E6E506DA3DDA814D1CC8D.tmp' to '../../../../2024_Supcrea_RanduFinal/Hacking_Project/Content/Maps/Level_2_Agathe.umap'
+[2024.05.18-13.54.02:685][ 60]LogFileHelpers: Saving map 'Level_2_Agathe' took 0.093
+[2024.05.18-13.54.02:706][ 60]LogFileHelpers: InternalPromptForCheckoutAndSave took 205 ms (total: 1.61 sec)
+[2024.05.18-13.54.02:709][ 60]AssetCheck: New page: Asset Save: Level_2_Agathe
+[2024.05.18-13.54.02:709][ 60]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Level_2_Agathe.Level_2_Agathe
+[2024.05.18-13.54.04:447][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.05.18-13.54.46:144][416]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.18-13.54.46:144][416]PIE: New page: PIE session: Level_2_Agathe (18 mai 2024 à 17:54:46)
+[2024.05.18-13.54.46:144][416]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_2_Agathe
+[2024.05.18-13.54.46:156][416]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011637s)
+[2024.05.18-13.54.46:156][416]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_2_Agathe.Level_2_Agathe to /Game/Maps/UEDPIE_0_Level_2_Agathe.Level_2_Agathe (0.011677s)
+[2024.05.18-13.54.46:173][416]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.05.18-13.54.46:176][416]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.18-13.54.46:176][416]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.18-13.54.46:176][416]LogAIModule: Creating AISystem for world Level_2_Agathe
+[2024.05.18-13.54.46:177][416]LogPlayLevel: PIE: World Init took: (0.001197s)
+[2024.05.18-13.54.46:177][416]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2024.05.18-13.54.46:177][416]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.18-13.54.46:177][416]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.18-13.54.46:177][416]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.18-13.54.46:177][416]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.18-13.54.46:177][416]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.05.18-13.54.46:177][416]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.18-13.54.46:177][416]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.05.18-13.54.46:177][416]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.18-13.54.46:178][416]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.18-13.54.46:178][416]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.18-13.54.46:178][416]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.18-13.54.46:180][416]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.18-13.54.46:206][416]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (HyperX Virtual Surround Sound)
+[2024.05.18-13.54.46:207][416]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.18-13.54.46:207][416]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.18-13.54.46:207][416]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.18-13.54.46:207][416]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2024.05.18-13.54.46:208][416]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2024.05.18-13.54.46:210][416]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2024.05.18-13.54.46:210][416]LogInit: FAudioDevice initialized with ID 18.
+[2024.05.18-13.54.46:210][416]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2024.05.18-13.54.46:210][416]LogAudio: Display: Audio Device (ID: 18) registered with world 'Level_2_Agathe'.
+[2024.05.18-13.54.46:210][416]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2024.05.18-13.54.46:212][416]LogLoad: Game class is 'BP_HackingGameMode_C'
+[2024.05.18-13.54.46:218][416]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_2_Agathe.Level_2_Agathe up for play (max tick rate 0) at 2024.05.18-15.54.46
+[2024.05.18-13.54.46:218][416]LogWorld: Bringing up level for play took: 0.005579
+[2024.05.18-13.54.46:220][416]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2024.05.18-13.54.46:225][416]PIE: Server logged in
+[2024.05.18-13.54.46:225][416]PIE: Play in editor total start time 0,081 seconds.
+[2024.05.18-13.54.47:902][481]LogBlueprintUserMessages: [BP_ObjectiveReach_C_1] BP_ObjectiveReach | Player ENTER
+[2024.05.18-13.54.47:902][481]LogBlueprintUserMessages: [BP_ObjectiveReach_C_1] Interact (E)
+[2024.05.18-13.54.47:902][481]LogBlueprintUserMessages: [BP_ObjectiveReach_C_1] Interact (E)
+[2024.05.18-13.54.47:902][481]LogBlueprintUserMessages: [BP_ObjectiveReach_C_1] BP_ObjectiveReach | Interaction END
+[2024.05.18-13.54.47:902][481]LogBlueprintUserMessages: [BP_ObjectiveReach_C_1] BP_ObjectiveReach | Player EXIT
+[2024.05.18-13.54.47:902][481]LogBlueprintUserMessages: [BP_ObjectiveReach_C_1] Interact (E)
+[2024.05.18-13.54.47:923][482]LogNet: Browse: /Game/Maps/Level_1_Virgile
+[2024.05.18-13.54.47:924][482]LogLoad: LoadMap: /Game/Maps/Level_1_Virgile
+[2024.05.18-13.54.47:924][482]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level_2_Agathe
+[2024.05.18-13.54.47:925][482]LogWorld: UWorld::CleanupWorld for Level_2_Agathe, bSessionEnded=true, bCleanupResources=true
+[2024.05.18-13.54.47:925][482]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.18-13.54.47:945][482]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.18-13.54.47:949][482]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2024.05.18-13.54.48:024][482]LogAudio: Display: Audio Device (ID: 18) registered with world 'Level_1_Virgile'.
+[2024.05.18-13.54.48:024][482]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.18-13.54.48:024][482]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.18-13.54.48:025][482]LogAIModule: Creating AISystem for world Level_1_Virgile
+[2024.05.18-13.54.48:025][482]LogPlayLevel: PIE: World Init took: (0.001012s)
+[2024.05.18-13.54.48:025][482]LogLoad: Game class is 'BP_HackingGameMode_C'
+[2024.05.18-13.54.48:076][482]LogBlueprintUserMessages: [BPT_Room_C_0] Collision with: BPT_Room8 | Component: BPT_Room8.NODE_AddStaticMeshComponent-3_3 MDL_Wall
+[2024.05.18-13.54.48:076][482]LogBlueprintUserMessages: [BPT_Room_C_0] Collision with: BP_Door | Component: BP_Door.Collision
+[2024.05.18-13.54.48:076][482]LogBlueprintUserMessages: [BPT_Room_C_0] Collision with: BP_Door | Component: BP_Door.Cube Cube
+[2024.05.18-13.54.48:076][482]LogBlueprintUserMessages: [BPT_Room_C_0] Collision with: BPT_Room8 | Component: BPT_Room8.NODE_AddStaticMeshComponent-3_4 MDL_Wall
+[2024.05.18-13.54.48:089][482]LogBlueprintUserMessages: [BPT_Room_C_1] Collision with: BP_Door2 | Component: BP_Door2.Cube Cube
+[2024.05.18-13.54.48:089][482]LogBlueprintUserMessages: [BPT_Room_C_1] Collision with: BP_Door2 | Component: BP_Door2.Collision
+[2024.05.18-13.54.48:089][482]LogBlueprintUserMessages: [BPT_Room_C_1] Collision with: BPT_Room | Component: BPT_Room.NODE_AddStaticMeshComponent-3_36 MDL_Wall
+[2024.05.18-13.54.48:107][482]LogBlueprintUserMessages: [BPT_Room_C_10] Collision with: BPT_Room14 | Component: BPT_Room14.NODE_AddStaticMeshComponent-3_40 MDL_Wall
+[2024.05.18-13.54.48:107][482]LogBlueprintUserMessages: [BPT_Room_C_10] Collision with: BPT_Room14 | Component: BPT_Room14.NODE_AddStaticMeshComponent-3_45 MDL_Wall
+[2024.05.18-13.54.48:116][482]LogBlueprintUserMessages: [BPT_Room_C_11] Collision with: BPT_Room4 | Component: BPT_Room4.NODE_AddStaticMeshComponent-3_2 MDL_Wall
+[2024.05.18-13.54.48:116][482]LogBlueprintUserMessages: [BPT_Room_C_11] Collision with: BPT_Room4 | Component: BPT_Room4.NODE_AddStaticMeshComponent-3_1 MDL_Wall
+[2024.05.18-13.54.48:125][482]LogBlueprintUserMessages: [BPT_Room_C_14] Collision with: BPT_Room5 | Component: BPT_Room5.NODE_AddStaticMeshComponent-3_8 MDL_Wall
+[2024.05.18-13.54.48:159][482]LogBlueprintUserMessages: [BPT_Room_C_15] Collision with: BP_Door3 | Component: BP_Door3.Cube Cube
+[2024.05.18-13.54.48:159][482]LogBlueprintUserMessages: [BPT_Room_C_15] Collision with: BP_Door3 | Component: BP_Door3.Collision
+[2024.05.18-13.54.48:159][482]LogBlueprintUserMessages: [BPT_Room_C_15] Collision with: BPT_Room6 | Component: BPT_Room6.NODE_AddStaticMeshComponent-3_29 MDL_Wall
+[2024.05.18-13.54.48:159][482]LogBlueprintUserMessages: [BPT_Room_C_15] Collision with: BPT_Room6 | Component: BPT_Room6.NODE_AddStaticMeshComponent-3_30 MDL_Wall
+[2024.05.18-13.54.48:159][482]LogBlueprintUserMessages: [BPT_Room_C_15] Collision with: BPT_Room6 | Component: BPT_Room6.NODE_AddStaticMeshComponent-3_101 MDL_Wall
+[2024.05.18-13.54.48:160][482]LogBlueprintUserMessages: [BPT_Room_C_15] Collision with: BPT_Room6 | Component: BPT_Room6.NODE_AddStaticMeshComponent-3_121 MDL_Wall
+[2024.05.18-13.54.48:160][482]LogBlueprintUserMessages: [BPT_Room_C_15] Collision with: BPT_Room6 | Component: BPT_Room6.NODE_AddStaticMeshComponent-3_125 MDL_Wall
+[2024.05.18-13.54.48:160][482]LogBlueprintUserMessages: [BPT_Room_C_15] Collision with: BPT_Room6 | Component: BPT_Room6.NODE_AddStaticMeshComponent-3_105 MDL_Wall
+[2024.05.18-13.54.48:160][482]LogBlueprintUserMessages: [BPT_Room_C_15] Collision with: BPT_Room6 | Component: BPT_Room6.NODE_AddStaticMeshComponent-3_81 MDL_Wall
+[2024.05.18-13.54.48:160][482]LogBlueprintUserMessages: [BPT_Room_C_15] Collision with: BPT_Room6 | Component: BPT_Room6.NODE_AddStaticMeshComponent-3_85 MDL_Wall
+[2024.05.18-13.54.48:182][482]LogBlueprintUserMessages: [BPT_Room_C_16] Collision with: BPT_Room7 | Component: BPT_Room7.NODE_AddStaticMeshComponent-3_11 MDL_Wall
+[2024.05.18-13.54.48:182][482]LogBlueprintUserMessages: [BPT_Room_C_16] Collision with: BPT_Room7 | Component: BPT_Room7.NODE_AddStaticMeshComponent-3_8 MDL_Wall
+[2024.05.18-13.54.48:207][482]LogBlueprintUserMessages: [BPT_Room_C_2] Collision with: BP_Door | Component: BP_Door.Collision
+[2024.05.18-13.54.48:207][482]LogBlueprintUserMessages: [BPT_Room_C_2] Collision with: BP_Door | Component: BP_Door.Cube Cube
+[2024.05.18-13.54.48:207][482]LogBlueprintUserMessages: [BPT_Room_C_2] Collision with: BPT_Room10 | Component: BPT_Room10.NODE_AddStaticMeshComponent-3_35 MDL_Wall
+[2024.05.18-13.54.48:207][482]LogBlueprintUserMessages: [BPT_Room_C_2] Collision with: BPT_Room10 | Component: BPT_Room10.NODE_AddStaticMeshComponent-3_18 MDL_Wall
+[2024.05.18-13.54.48:207][482]LogBlueprintUserMessages: [BPT_Room_C_2] Collision with: BP_Door4 | Component: BP_Door4.Cube Cube
+[2024.05.18-13.54.48:207][482]LogBlueprintUserMessages: [BPT_Room_C_2] Collision with: BP_Door4 | Component: BP_Door4.Collision
+[2024.05.18-13.54.48:207][482]LogBlueprintUserMessages: [BPT_Room_C_2] Collision with: BPT_Room10 | Component: BPT_Room10.NODE_AddStaticMeshComponent-3_71 MDL_Wall
+[2024.05.18-13.54.48:222][482]LogBlueprintUserMessages: [BPT_Room_C_3] Collision with: BPT_Room2 | Component: BPT_Room2.NODE_AddStaticMeshComponent-3_32 MDL_Wall
+[2024.05.18-13.54.48:222][482]LogBlueprintUserMessages: [BPT_Room_C_3] Collision with: BP_Door2 | Component: BP_Door2.Cube Cube
+[2024.05.18-13.54.48:222][482]LogBlueprintUserMessages: [BPT_Room_C_3] Collision with: BP_Door2 | Component: BP_Door2.Collision
+[2024.05.18-13.54.48:222][482]LogBlueprintUserMessages: [BPT_Room_C_3] Collision with: BPT_Room2 | Component: BPT_Room2.NODE_AddStaticMeshComponent-3_31 MDL_Wall
+[2024.05.18-13.54.48:231][482]LogBlueprintUserMessages: [BPT_Room_C_4] Collision with: BPT_Room11 | Component: BPT_Room11.NODE_AddStaticMeshComponent-3_7 MDL_Wall
+[2024.05.18-13.54.48:252][482]LogBlueprintUserMessages: [BPT_Room_C_5] Collision with: BPT_Room3 | Component: BPT_Room3.NODE_AddStaticMeshComponent-3_65 MDL_Wall
+[2024.05.18-13.54.48:252][482]LogBlueprintUserMessages: [BPT_Room_C_5] Collision with: BPT_Room3 | Component: BPT_Room3.NODE_AddStaticMeshComponent-3_17 MDL_Wall
+[2024.05.18-13.54.48:252][482]LogBlueprintUserMessages: [BPT_Room_C_5] Collision with: BP_Door3 | Component: BP_Door3.Cube Cube
+[2024.05.18-13.54.48:252][482]LogBlueprintUserMessages: [BPT_Room_C_5] Collision with: BP_Door3 | Component: BP_Door3.Collision
+[2024.05.18-13.54.48:252][482]LogBlueprintUserMessages: [BPT_Room_C_5] Collision with: BPT_Room3 | Component: BPT_Room3.NODE_AddStaticMeshComponent-3_18 MDL_Wall
+[2024.05.18-13.54.48:270][482]LogBlueprintUserMessages: [BPT_Room_C_6] Collision with: BPT_Room9 | Component: BPT_Room9.NODE_AddStaticMeshComponent-3_16 MDL_Wall
+[2024.05.18-13.54.48:270][482]LogBlueprintUserMessages: [BPT_Room_C_6] Collision with: BPT_Room9 | Component: BPT_Room9.NODE_AddStaticMeshComponent-3_9 MDL_Wall
+[2024.05.18-13.54.48:315][482]LogBlueprintUserMessages: [BPT_Room_C_8] Collision with: BP_Door4 | Component: BP_Door4.Cube Cube
+[2024.05.18-13.54.48:315][482]LogBlueprintUserMessages: [BPT_Room_C_8] Collision with: BP_Door4 | Component: BP_Door4.Collision
+[2024.05.18-13.54.48:315][482]LogBlueprintUserMessages: [BPT_Room_C_8] Collision with: BPT_Room12 | Component: BPT_Room12.NODE_AddStaticMeshComponent-3_152 MDL_Wall
+[2024.05.18-13.54.48:315][482]LogBlueprintUserMessages: [BPT_Room_C_8] Collision with: BPT_Room12 | Component: BPT_Room12.NODE_AddStaticMeshComponent-3_155 MDL_Wall
+[2024.05.18-13.54.48:352][482]LogBlueprintUserMessages: [BPT_Room_C_9] Collision with: BPT_Room13 | Component: BPT_Room13.NODE_AddStaticMeshComponent-3_66 MDL_Wall
+[2024.05.18-13.54.48:360][482]LogBlueprintUserMessages: [BP_Elevator_C_2] 1.0
+[2024.05.18-13.54.48:362][482]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1_Virgile.Level_1_Virgile up for play (max tick rate 0) at 2024.05.18-15.54.48
+[2024.05.18-13.54.48:362][482]LogWorld: Bringing up level for play took: 0.336850
+[2024.05.18-13.54.48:363][482]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.05.18-13.54.48:368][482]LogLoad: Took 0.444712 seconds to LoadMap(/Game/Maps/Level_1_Virgile)
+[2024.05.18-13.54.50:475][609]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.18-13.54.50:475][609]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level_1_Virgile
+[2024.05.18-13.54.50:476][609]LogWorld: UWorld::CleanupWorld for Level_1_Virgile, bSessionEnded=true, bCleanupResources=true
+[2024.05.18-13.54.50:482][609]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.18-13.54.50:486][609]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.18-13.54.50:491][609]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.18-13.54.50:514][609]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.18-13.54.50:514][609]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2024.05.18-13.54.50:515][609]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2024.05.18-13.54.50:516][609]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2024.05.18-13.54.50:533][609]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2024.05.18-13.54.50:652][610]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2024.05.18-13.54.52:282][707]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.18-13.54.52:386][707]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_2_Agathe" FILE="../../../../2024_Supcrea_RanduFinal/Hacking_Project/Content/Maps/Level_2_Agathe.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.05.18-13.54.52:423][707]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.05.18-13.54.52:466][707]LogSavePackage: Moving output files for package: /Game/Maps/Level_2_Agathe
+[2024.05.18-13.54.52:467][707]LogSavePackage: Moving '../../../../2024_Supcrea_RanduFinal/Hacking_Project/Saved/Level_2_Agathe63EE599E45CBA13C340D889BF51EA800.tmp' to '../../../../2024_Supcrea_RanduFinal/Hacking_Project/Content/Maps/Level_2_Agathe.umap'
+[2024.05.18-13.54.52:473][707]LogFileHelpers: Saving map 'Level_2_Agathe' took 0.088
+[2024.05.18-13.54.52:496][707]LogFileHelpers: InternalPromptForCheckoutAndSave took 213 ms (total: 1.83 sec)
+[2024.05.18-13.54.52:498][707]AssetCheck: New page: Asset Save: Level_2_Agathe
+[2024.05.18-13.54.52:498][707]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Level_2_Agathe.Level_2_Agathe
+[2024.05.18-13.55.34:547][952]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.18-13.55.34:627][952]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_2_Agathe" FILE="../../../../2024_Supcrea_RanduFinal/Hacking_Project/Content/Maps/Level_2_Agathe.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.05.18-13.55.34:663][952]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.05.18-13.55.34:709][952]LogSavePackage: Moving output files for package: /Game/Maps/Level_2_Agathe
+[2024.05.18-13.55.34:710][952]LogSavePackage: Moving '../../../../2024_Supcrea_RanduFinal/Hacking_Project/Saved/Level_2_Agathe59C95A594F768B2ECC96729D79810F30.tmp' to '../../../../2024_Supcrea_RanduFinal/Hacking_Project/Content/Maps/Level_2_Agathe.umap'
+[2024.05.18-13.55.34:716][952]LogFileHelpers: Saving map 'Level_2_Agathe' took 0.089
+[2024.05.18-13.55.34:723][952]LogFileHelpers: InternalPromptForCheckoutAndSave took 175 ms (total: 2.00 sec)
+[2024.05.18-13.55.34:725][952]AssetCheck: New page: Asset Save: Level_2_Agathe
+[2024.05.18-13.55.34:725][952]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Level_2_Agathe.Level_2_Agathe
+[2024.05.18-13.55.46:304][505]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.18-13.55.46:304][505]PIE: New page: PIE session: Level_2_Agathe (18 mai 2024 à 17:55:46)
+[2024.05.18-13.55.46:304][505]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_2_Agathe
+[2024.05.18-13.55.46:315][505]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011015s)
+[2024.05.18-13.55.46:315][505]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_2_Agathe.Level_2_Agathe to /Game/Maps/UEDPIE_0_Level_2_Agathe.Level_2_Agathe (0.011057s)
+[2024.05.18-13.55.46:333][505]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.05.18-13.55.46:335][505]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.18-13.55.46:336][505]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.18-13.55.46:336][505]LogAIModule: Creating AISystem for world Level_2_Agathe
+[2024.05.18-13.55.46:336][505]LogPlayLevel: PIE: World Init took: (0.000963s)
+[2024.05.18-13.55.46:336][505]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2024.05.18-13.55.46:336][505]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.18-13.55.46:336][505]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.18-13.55.46:336][505]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.18-13.55.46:336][505]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.18-13.55.46:336][505]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.05.18-13.55.46:336][505]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.18-13.55.46:336][505]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.05.18-13.55.46:336][505]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.18-13.55.46:337][505]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.18-13.55.46:337][505]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.18-13.55.46:337][505]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.18-13.55.46:339][505]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.18-13.55.46:366][505]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (HyperX Virtual Surround Sound)
+[2024.05.18-13.55.46:366][505]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.18-13.55.46:367][505]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.18-13.55.46:367][505]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.18-13.55.46:367][505]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2024.05.18-13.55.46:367][505]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2024.05.18-13.55.46:369][505]LogInit: FAudioDevice initialized with ID 19.
+[2024.05.18-13.55.46:369][505]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2024.05.18-13.55.46:369][505]LogAudio: Display: Audio Device (ID: 19) registered with world 'Level_2_Agathe'.
+[2024.05.18-13.55.46:369][505]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2024.05.18-13.55.46:369][505]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2024.05.18-13.55.46:372][505]LogLoad: Game class is 'BP_HackingGameMode_C'
+[2024.05.18-13.55.46:378][505]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_2_Agathe.Level_2_Agathe up for play (max tick rate 0) at 2024.05.18-15.55.46
+[2024.05.18-13.55.46:378][505]LogWorld: Bringing up level for play took: 0.005669
+[2024.05.18-13.55.46:380][505]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2024.05.18-13.55.46:384][505]PIE: Server logged in
+[2024.05.18-13.55.46:385][505]PIE: Play in editor total start time 0,082 seconds.
+[2024.05.18-13.55.49:689][634]LogBlueprintUserMessages: [BP_HackTarget_C_3] BP_HackTarget | Player ENTER
+[2024.05.18-13.55.49:689][634]LogBlueprintUserMessages: [BP_HackTarget_C_3] HACK | Interact (E)
+[2024.05.18-13.55.50:651][680]LogBlueprintUserMessages: [BP_HackTarget_C_3] BP_HackTarget | Interaction START
+[2024.05.18-13.55.52:181][752]LogBlueprintUserMessages: [WBP_PlayerHUD_C_0] HACKING | Retry...
+[2024.05.18-13.55.52:854][785]LogBlueprintUserMessages: [WBP_PlayerHUD_C_0] HACKING | Retry...
+[2024.05.18-13.55.54:104][850]LogBlueprintUserMessages: [WBP_PlayerHUD_C_0] HACKING | Retry...
+[2024.05.18-13.55.54:105][850]LogBlueprintUserMessages: [WBP_PlayerHUD_C_0] HACKING | Fail......
+[2024.05.18-13.55.55:486][922]LogBlueprintUserMessages: [BP_HackTarget_C_3] BP_HackTarget | Interaction START
+[2024.05.18-13.55.56:142][956]LogBlueprintUserMessages: [WBP_PlayerHUD_C_0] HACKING | Retry...
+[2024.05.18-13.55.57:567][ 30]LogBlueprintUserMessages: [WBP_PlayerHUD_C_0] HACKING | Retry...
+[2024.05.18-13.55.58:740][ 91]LogBlueprintUserMessages: [WBP_PlayerHUD_C_0] HACKING | Retry...
+[2024.05.18-13.55.58:740][ 91]LogBlueprintUserMessages: [WBP_PlayerHUD_C_0] HACKING | Fail......
+[2024.05.18-13.55.59:855][149]LogBlueprintUserMessages: [BP_HackTarget_C_3] BP_HackTarget | Interaction START
+[2024.05.18-13.56.00:719][194]LogBlueprintUserMessages: [WBP_PlayerHUD_C_0] HACKING | Fail......
+[2024.05.18-13.56.01:776][249]LogBlueprintUserMessages: [BP_HackTarget_C_3] BP_HackTarget | Interaction START
+[2024.05.18-13.56.02:966][311]LogBlueprintUserMessages: [WBP_PlayerHUD_C_0] HACKING | Success!
+[2024.05.18-13.56.02:966][311]LogBlueprintUserMessages: [BP_HackTarget_C_3] BP_HackTarget | Interaction END
+[2024.05.18-13.56.02:966][311]LogBlueprintUserMessages: [BP_HackTarget_C_3] BP_HackTarget | Player EXIT
+[2024.05.18-13.56.02:966][311]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_QueryKeysMappedToAction_ReturnValue' of length 0 in '/Game/PlayerTriggers/BP_TriggerInteraction.BP_TriggerInteraction_C:GetInteractionKey'!
+[2024.05.18-13.56.02:967][311]LogScript: Warning: Script Msg called by: BP_HackTarget_C /Game/Maps/UEDPIE_0_Level_2_Agathe.Level_2_Agathe:PersistentLevel.BP_HackTarget_C_3
+[2024.05.18-13.56.02:967][311]LogBlueprintUserMessages: [BP_HackTarget_C_3] HACK | Interact (None)
+[2024.05.18-13.56.02:967][311]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_QueryKeysMappedToAction_ReturnValue' of length 0 in '/Game/PlayerTriggers/BP_TriggerInteraction.BP_TriggerInteraction_C:GetInteractionKey'!
+[2024.05.18-13.56.02:967][311]LogScript: Warning: Script Msg called by: BP_HackTarget_C /Game/Maps/UEDPIE_0_Level_2_Agathe.Level_2_Agathe:PersistentLevel.BP_HackTarget_C_3
+[2024.05.18-13.56.05:154][422]LogBlueprintUserMessages: [BP_ForceField_C_2] BP_ForceField2 | Player ENTER
+[2024.05.18-13.56.05:154][422]LogBlueprintUserMessages: [BP_ForceField_C_2] HACK | Interact (E)
+[2024.05.18-13.56.06:195][476]LogBlueprintUserMessages: [BP_ForceField_C_2] BP_ForceField2 | Interaction START
+[2024.05.18-13.56.06:735][504]LogBlueprintUserMessages: [WBP_PlayerHUD_C_0] HACKING | Retry...
+[2024.05.18-13.56.08:318][586]LogBlueprintUserMessages: [WBP_PlayerHUD_C_0] HACKING | Success!
+[2024.05.18-13.56.08:318][586]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_QueryKeysMappedToAction_ReturnValue' of length 0 in '/Game/PlayerTriggers/BP_TriggerInteraction.BP_TriggerInteraction_C:GetInteractionKey'!
+[2024.05.18-13.56.08:318][586]LogScript: Warning: Script Msg called by: BP_ForceField_C /Game/Maps/UEDPIE_0_Level_2_Agathe.Level_2_Agathe:PersistentLevel.BP_ForceField_C_2
+[2024.05.18-13.56.08:318][586]LogBlueprintUserMessages: [BP_ForceField_C_2] HACK | Interact (None)
+[2024.05.18-13.56.08:318][586]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_QueryKeysMappedToAction_ReturnValue' of length 0 in '/Game/PlayerTriggers/BP_TriggerInteraction.BP_TriggerInteraction_C:GetInteractionKey'!
+[2024.05.18-13.56.08:318][586]LogScript: Warning: Script Msg called by: BP_ForceField_C /Game/Maps/UEDPIE_0_Level_2_Agathe.Level_2_Agathe:PersistentLevel.BP_ForceField_C_2
+[2024.05.18-13.56.08:319][586]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerInTrigger". Node:  Cast To BP_PlayerController Graph:  OnHackingSuccess Function:  On Hacking Success Blueprint:  BP_HackTarget
+[2024.05.18-13.56.08:319][586]LogBlueprintUserMessages: [BP_ForceField_C_2] BP_ForceField2 | Interaction END
+[2024.05.18-13.56.08:319][586]LogBlueprintUserMessages: [BPC_ObjectiveTarget] BP_ForceField2 | On Target Complete
+[2024.05.18-13.56.08:319][586]LogBlueprintUserMessages: [BP_ForceField_C_2] BP_ForceField2 | Player EXIT
+[2024.05.18-13.56.08:319][586]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_QueryKeysMappedToAction_ReturnValue' of length 0 in '/Game/PlayerTriggers/BP_TriggerInteraction.BP_TriggerInteraction_C:GetInteractionKey'!
+[2024.05.18-13.56.08:319][586]LogScript: Warning: Script Msg called by: BP_ForceField_C /Game/Maps/UEDPIE_0_Level_2_Agathe.Level_2_Agathe:PersistentLevel.BP_ForceField_C_2
+[2024.05.18-13.56.08:319][586]LogBlueprintUserMessages: [BP_ForceField_C_2] HACK | Interact (None)
+[2024.05.18-13.56.08:319][586]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_QueryKeysMappedToAction_ReturnValue' of length 0 in '/Game/PlayerTriggers/BP_TriggerInteraction.BP_TriggerInteraction_C:GetInteractionKey'!
+[2024.05.18-13.56.08:319][586]LogScript: Warning: Script Msg called by: BP_ForceField_C /Game/Maps/UEDPIE_0_Level_2_Agathe.Level_2_Agathe:PersistentLevel.BP_ForceField_C_2
+[2024.05.18-13.56.08:319][586]LogBlueprintUserMessages: [BP_ForceField_C_2] BP_ForceField2 | Player ENTER
+[2024.05.18-13.56.08:319][586]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_QueryKeysMappedToAction_ReturnValue' of length 0 in '/Game/PlayerTriggers/BP_TriggerInteraction.BP_TriggerInteraction_C:GetInteractionKey'!
+[2024.05.18-13.56.08:319][586]LogScript: Warning: Script Msg called by: BP_ForceField_C /Game/Maps/UEDPIE_0_Level_2_Agathe.Level_2_Agathe:PersistentLevel.BP_ForceField_C_2
+[2024.05.18-13.56.08:319][586]LogBlueprintUserMessages: [BP_ForceField_C_2] HACK | Interact (None)
+[2024.05.18-13.56.08:319][586]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_QueryKeysMappedToAction_ReturnValue' of length 0 in '/Game/PlayerTriggers/BP_TriggerInteraction.BP_TriggerInteraction_C:GetInteractionKey'!
+[2024.05.18-13.56.08:319][586]LogScript: Warning: Script Msg called by: BP_ForceField_C /Game/Maps/UEDPIE_0_Level_2_Agathe.Level_2_Agathe:PersistentLevel.BP_ForceField_C_2
+[2024.05.18-13.56.10:236][685]LogBlueprintUserMessages: [BP_ForceField_C_2] BP_ForceField2 | Player EXIT
+[2024.05.18-13.56.10:236][685]LogBlueprintUserMessages: [BP_ForceField_C_2] HACK | Interact (E)
+[2024.05.18-13.56.11:226][736]LogBlueprintUserMessages: [BP_ForceField_C_2] BP_ForceField2 | Player ENTER
+[2024.05.18-13.56.11:227][736]LogBlueprintUserMessages: [BP_ForceField_C_2] HACK | Interact (E)
+[2024.05.18-13.56.12:456][800]LogBlueprintUserMessages: [BP_ForceField_C_2] BP_ForceField2 | Interaction START
+[2024.05.18-13.56.13:971][879]LogBlueprintUserMessages: [WBP_PlayerHUD_C_0] HACKING | Success!
+[2024.05.18-13.56.13:971][879]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_QueryKeysMappedToAction_ReturnValue' of length 0 in '/Game/PlayerTriggers/BP_TriggerInteraction.BP_TriggerInteraction_C:GetInteractionKey'!
+[2024.05.18-13.56.13:971][879]LogScript: Warning: Script Msg called by: BP_ForceField_C /Game/Maps/UEDPIE_0_Level_2_Agathe.Level_2_Agathe:PersistentLevel.BP_ForceField_C_2
+[2024.05.18-13.56.13:971][879]LogBlueprintUserMessages: [BP_ForceField_C_2] HACK | Interact (None)
+[2024.05.18-13.56.13:971][879]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_QueryKeysMappedToAction_ReturnValue' of length 0 in '/Game/PlayerTriggers/BP_TriggerInteraction.BP_TriggerInteraction_C:GetInteractionKey'!
+[2024.05.18-13.56.13:971][879]LogScript: Warning: Script Msg called by: BP_ForceField_C /Game/Maps/UEDPIE_0_Level_2_Agathe.Level_2_Agathe:PersistentLevel.BP_ForceField_C_2
+[2024.05.18-13.56.13:971][879]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerInTrigger". Node:  Cast To BP_PlayerController Graph:  OnHackingSuccess Function:  On Hacking Success Blueprint:  BP_HackTarget
+[2024.05.18-13.56.13:971][879]LogBlueprintUserMessages: [BP_ForceField_C_2] BP_ForceField2 | Interaction END
+[2024.05.18-13.56.13:971][879]LogBlueprintUserMessages: [BPC_ObjectiveTarget] BP_ForceField2 | On Target Complete
+[2024.05.18-13.56.13:971][879]LogBlueprintUserMessages: [BP_ForceField_C_2] BP_ForceField2 | Player EXIT
+[2024.05.18-13.56.13:971][879]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_QueryKeysMappedToAction_ReturnValue' of length 0 in '/Game/PlayerTriggers/BP_TriggerInteraction.BP_TriggerInteraction_C:GetInteractionKey'!
+[2024.05.18-13.56.13:971][879]LogScript: Warning: Script Msg called by: BP_ForceField_C /Game/Maps/UEDPIE_0_Level_2_Agathe.Level_2_Agathe:PersistentLevel.BP_ForceField_C_2
+[2024.05.18-13.56.13:971][879]LogBlueprintUserMessages: [BP_ForceField_C_2] HACK | Interact (None)
+[2024.05.18-13.56.13:971][879]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_QueryKeysMappedToAction_ReturnValue' of length 0 in '/Game/PlayerTriggers/BP_TriggerInteraction.BP_TriggerInteraction_C:GetInteractionKey'!
+[2024.05.18-13.56.13:972][879]LogScript: Warning: Script Msg called by: BP_ForceField_C /Game/Maps/UEDPIE_0_Level_2_Agathe.Level_2_Agathe:PersistentLevel.BP_ForceField_C_2
+[2024.05.18-13.56.13:972][879]LogBlueprintUserMessages: [BP_ForceField_C_2] BP_ForceField2 | Player ENTER
+[2024.05.18-13.56.13:972][879]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_QueryKeysMappedToAction_ReturnValue' of length 0 in '/Game/PlayerTriggers/BP_TriggerInteraction.BP_TriggerInteraction_C:GetInteractionKey'!
+[2024.05.18-13.56.13:972][879]LogScript: Warning: Script Msg called by: BP_ForceField_C /Game/Maps/UEDPIE_0_Level_2_Agathe.Level_2_Agathe:PersistentLevel.BP_ForceField_C_2
+[2024.05.18-13.56.13:972][879]LogBlueprintUserMessages: [BP_ForceField_C_2] HACK | Interact (None)
+[2024.05.18-13.56.13:972][879]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_QueryKeysMappedToAction_ReturnValue' of length 0 in '/Game/PlayerTriggers/BP_TriggerInteraction.BP_TriggerInteraction_C:GetInteractionKey'!
+[2024.05.18-13.56.13:972][879]LogScript: Warning: Script Msg called by: BP_ForceField_C /Game/Maps/UEDPIE_0_Level_2_Agathe.Level_2_Agathe:PersistentLevel.BP_ForceField_C_2
+[2024.05.18-13.56.14:914][928]LogBlueprintUserMessages: [BP_ForceField_C_2] BP_ForceField2 | Player EXIT
+[2024.05.18-13.56.14:914][928]LogBlueprintUserMessages: [BP_ForceField_C_2] HACK | Interact (E)
+[2024.05.18-13.56.16:894][ 29]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.18-13.56.16:894][ 29]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level_2_Agathe
+[2024.05.18-13.56.16:895][ 29]LogWorld: UWorld::CleanupWorld for Level_2_Agathe, bSessionEnded=true, bCleanupResources=true
+[2024.05.18-13.56.16:895][ 29]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.18-13.56.16:915][ 29]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.18-13.56.16:920][ 29]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.18-13.56.16:938][ 29]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.18-13.56.16:939][ 29]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2024.05.18-13.56.16:940][ 29]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2024.05.18-13.56.16:942][ 29]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2024.05.18-13.56.16:951][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2024.05.18-13.56.17:201][ 30]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2024.05.18-13.56.21:955][210]LogSlate: Window 'Message Log' being destroyed
+[2024.05.18-13.56.21:982][210]LogSlate: Window 'Message Log' being destroyed
+[2024.05.18-13.56.23:141][263]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.18-13.56.23:214][263]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_2_Agathe" FILE="../../../../2024_Supcrea_RanduFinal/Hacking_Project/Content/Maps/Level_2_Agathe.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.05.18-13.56.23:251][263]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.05.18-13.56.23:294][263]LogSavePackage: Moving output files for package: /Game/Maps/Level_2_Agathe
+[2024.05.18-13.56.23:295][263]LogSavePackage: Moving '../../../../2024_Supcrea_RanduFinal/Hacking_Project/Saved/Level_2_AgatheEA942B98407A2BC3714449A6CCD242E8.tmp' to '../../../../2024_Supcrea_RanduFinal/Hacking_Project/Content/Maps/Level_2_Agathe.umap'
+[2024.05.18-13.56.23:301][263]LogFileHelpers: Saving map 'Level_2_Agathe' took 0.088
+[2024.05.18-13.56.23:316][263]LogFileHelpers: InternalPromptForCheckoutAndSave took 174 ms (total: 2.18 sec)
+[2024.05.18-13.56.23:317][263]AssetCheck: New page: Asset Save: Level_2_Agathe
+[2024.05.18-13.56.23:317][263]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Level_2_Agathe.Level_2_Agathe
+[2024.05.18-13.56.36:321][883]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.18-13.56.36:413][883]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_2_Agathe" FILE="../../../../2024_Supcrea_RanduFinal/Hacking_Project/Content/Maps/Level_2_Agathe.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.05.18-13.56.36:450][883]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.05.18-13.56.36:491][883]LogSavePackage: Moving output files for package: /Game/Maps/Level_2_Agathe
+[2024.05.18-13.56.36:492][883]LogSavePackage: Moving '../../../../2024_Supcrea_RanduFinal/Hacking_Project/Saved/Level_2_Agathe24F784B34CE8C35C1E374AB5DE8C906E.tmp' to '../../../../2024_Supcrea_RanduFinal/Hacking_Project/Content/Maps/Level_2_Agathe.umap'
+[2024.05.18-13.56.36:498][883]LogFileHelpers: Saving map 'Level_2_Agathe' took 0.086
+[2024.05.18-13.56.36:511][883]LogFileHelpers: InternalPromptForCheckoutAndSave took 190 ms (total: 2.37 sec)
+[2024.05.18-13.56.36:513][883]AssetCheck: New page: Asset Save: Level_2_Agathe
+[2024.05.18-13.56.36:513][883]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Level_2_Agathe.Level_2_Agathe
